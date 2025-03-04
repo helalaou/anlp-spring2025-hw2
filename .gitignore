@@ -1,2 +1,5 @@
 downloaded_files/
 *.json
+QAs/
+QA_gen.ipynb
+*copy*.ipynb
