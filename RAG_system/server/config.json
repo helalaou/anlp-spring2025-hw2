@@ -1,0 +1,53 @@
+{
+  "server": {
+    "port": 3001,
+    "faissApiUrl": "http://127.0.0.1:8000"
+  },
+  "client": {
+    "port": 3000
+  },
+  "rag": {
+    "embedding": {
+      "provider": "sentenceTransformers",
+      "openai": {
+        "model": "text-embedding-3-large",
+        "dimension": 1536,
+        "apiUrl": "https://api.openai.com/v1"
+      },
+      "sentenceTransformers": {
+        "model": "all-MiniLM-L6-v2",
+        "dimension": 3072,
+        "apiUrl": "local"
+      }
+    },
+    "reranking": {
+      "enabled": false,
+      "model": "all-MiniLM-L12-v2",
+      "apiUrl": "local"
+    },
+    "data": {
+      "filePath": "data/data.txt",
+      "faissIndexPath": "data/faiss_index.idx",
+      "numResults": 3,
+      "separator": "\n\n"  
+    }
+    
+  },
+  "chat": {
+    "provider": "ollama",
+    "openai": {
+      "model": "gpt-4o",
+      "apiUrl": "https://api.openai.com/v1"
+    },
+    "ollama": {
+      "model": "llama3.1:8b",
+      "apiUrl": "http://127.0.0.1:11434/api"
+    },
+    "timeout": 70000,
+    "systemPrompt": "You are a factual question-answering assistant specializing in information about Pittsburgh and Carnegie Mellon University (CMU).\nYour task is to provide accurate answers to questions about various facts concerning Pittsburgh and CMU.\nYou are given a user question, a chat history, and a context. Your task is to answer the question based on the retrieved documents in the context while also considering the chat history.\nDo not hallucinate or add extra information. Stick to the information provided in the retrieved documents.\nIf the retrieved documents do not contain information relevant to the question or if the information is irrelevant, then you shoud acknowledge that you don't have enough information to answer accurately.\nWrite in a clear, concise, and informative tone.\nRespond in markdown format. DO not mention the source from where you got the information. If you get too much information, only use the information that you need to answer the question and ignore the rest."
+  },
+  "app": {
+    "name": "pgh-cmu-qa",
+    "version": "1.0.0"
+  }
+} 

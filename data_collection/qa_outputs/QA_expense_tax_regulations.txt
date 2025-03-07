@@ -1,0 +1,284 @@
+Q: When did the revised Pittsburgh payroll tax regulations become effective?
+A: January 1, 2020.
+
+
+Q: Under which article can you find information about the imposition of the tax?
+A: Article II.
+
+
+Q: What section discusses the powers and duties of the treasurer?
+A: Section 401.
+
+
+Q: Where are the definitions related to the payroll tax regulations located?
+A: Section 101.
+
+
+Q: Which section covers the examination of books and records of taxpayers and employers?
+A: Section 402.
+
+Q: What entities are included under the term "association" in the payroll tax regulations?
+A: Association includes partnership, limited partnership, business trust, limited liability company, or any other form of unincorporated business or enterprise owned or operated by two or more persons.
+
+
+Q: What criteria determine if a business is conducted within the city?
+A: A business is conducted within the city if it maintains a fixed place of business, owns or leases real property, maintains a stock of tangible property for sale, conducts continuous solicitation, or utilizes the city streets in connection with its operations.
+
+
+Q: What is excluded from being considered "compensation" under the payroll tax regulations?
+A: Passive income received by partners or self-employed persons is excluded from being considered "compensation."
+
+
+Q: How is "business" defined in the payroll tax regulations?
+A: Business is defined as any activity, enterprise, profession, trade, or undertaking conducted or engaged in with the object of gain, benefit, or advantages, whether direct or indirect, and includes nonprofit businesses and trade associations.
+
+
+Q: What is the definition of "charity" according to the payroll tax regulations?
+A: Charity is a charitable organization that qualifies for tax exemption pursuant to the "Institutions of Purely Public Charity Act" and provides the evidence required by 10 p.s. § 376(a).
+
+Q: What is a drawing account?
+A: A drawing account is a temporary capital account set up for a partner or self-employed person to withdraw money or other assets in anticipation of business profit.
+
+
+Q: How can an independent contractor be classified as an employee for tax purposes?
+A: An independent contractor can be classified as an employee unless they are free from control over their work, their work is outside the usual course of the business, or they are engaged in an independently established trade.
+
+
+Q: Who is considered an employer within the city?
+A: An employer is any person conducting business within the city, including self-employed persons, partnerships, and those classified as employers under the Pennsylvania personal income tax statute.
+
+
+Q: What is an exempt employer?
+A: An exempt employer is any person that is a governmental entity.
+
+
+Q: Which statute provides guidance on joint employer issues?
+A: The Fair Labor Standards Act, 29 C.F.R. § 791.2, provides guidance on joint employer issues.
+
+Q: What are guaranteed payments in a partnership?
+A: Guaranteed payments are payments to partners by the partnership for services that are determined without regard to the net income of the partnership.
+
+
+Q: What is a governmental entity according to the text?
+A: A governmental entity is any agency, authority, department, or instrumentality of the federal government or of another state, and any unit of government listed under 101 Pa. Code § 23.221.
+
+
+Q: How are taxable distributions determined for a partner?
+A: Taxable distributions are determined using the same tax accounting method used to report taxable income for Pennsylvania personal income tax purposes, and they include a partner’s share of guaranteed payments from the partnership.
+
+
+Q: What is the Internal Revenue Code referred to in the text?
+A: The Internal Revenue Code referred to is the Internal Revenue Code of 1986, Public Law 99-514, as amended, 26 U.S.C. § 1, and following, as it was in effect on January 1, 2020.
+
+
+Q: How is a partnership defined in the context of Pennsylvania state income tax?
+A: A partnership is an unincorporated entity, joint venture, business trust, general partnership, limited partnership, limited liability company, syndicate, or any other unincorporated association with two or more owners that is taxed as a pass-through entity for Pennsylvania state income purposes.
+
+Q: What type of income is considered non-taxable passive income for a partner or self-employed person?
+A: Non-taxable passive income includes interest not from working capital investments, dividends, certain capital gains, ground rents, royalties from non-operating interests, retirement income, and real estate rental income without substantial services.
+
+
+Q: Under what conditions is income earned by a partner or self-employed person not considered passive income?
+A: Income is not passive if the business provides professional or personal services, unless the partner or self-employed person is retired and does not provide services.
+
+
+Q: Are guaranteed payments made to a partner considered passive income?
+A: No, guaranteed payments made to a partner are not considered passive income.
+
+
+Q: What types of payments made to a retiring partner are considered passive income?
+A: Payments made to a retiring partner under section 736 of the Internal Revenue Code are considered passive income.
+
+
+Q: Does the passive income exclusion apply to employees whose compensation is reported on a Form W-2 or Form 1099-MISC?
+A: No, the passive income exclusion only applies to partners and self-employed persons, not to employees whose compensation is reported on a Form W-2 or Form 1099-MISC.
+
+Q: What is the definition of a "person" under § 6924.501?
+A: A "person" includes a corporation, partnership, partner, self-employed individual, business trust, association, unincorporated entity, estate, trust, foundation, or natural person, but not a governmental entity.
+
+
+Q: How is a self-employed individual defined in the text?
+A: A self-employed individual earns compensation from one or more separate businesses within the city, other than as an employee or partner.
+
+
+Q: What is the tax year period mentioned in the text?
+A: The tax year is a twelve-month period from January 1 to December 31.
+
+
+Q: How is payroll tax computed for employers in Pittsburgh?
+A: The payroll tax is computed on the employer’s payroll expense, with 100% attributable to Pittsburgh if employees work exclusively in the city.
+
+
+Q: Who is responsible for tax administration in the city of Pittsburgh according to the text?
+A: The Director of Finance holds principal responsibility for tax administration, and the Deputy Director of Finance serves as the City Treasurer.
+
+Q: What is the method for computing payroll expense for employees working partly inside and outside the City of Pittsburgh?
+A: The method is to use the percentage of total working hours within the City of Pittsburgh compared to total working hours both within and outside the city.
+
+
+Q: What must employers do if they do not maintain records for apportioning payroll expenses within Pittsburgh?
+A: Employers may use a representative test period or conduct a survey based on factual data to create a formula, which must be attached to the first return each year and maintained for three years.
+
+
+Q: How should partners and self-employed individuals report taxable distributions for services rendered partly within and outside Pittsburgh?
+A: They must report taxable distributions associated with services rendered within Pittsburgh and may use an apportionment formula if exact distributions are impractical to determine.
+
+
+Q: What document should be used by partners and self-employed individuals to apportion compensation from sources within and outside Pennsylvania to the City of Pittsburgh?
+A: They may use the formula from the PA-40 form, substituting "city" for "commonwealth."
+
+
+Q: How long must data supporting an apportionment formula be maintained for audit and review purposes?
+A: The data must be maintained for at least three years.
+
+Q: What is the rate of the payroll tax levied in Pittsburgh?
+A: The rate of the payroll tax is fifty-five hundredths of a percent (.55% or .0055) of payroll expense.
+
+
+Q: How often is the payroll tax paid by employers in Pittsburgh?
+A: The payroll tax is paid quarterly.
+
+
+Q: Can the payroll tax be deducted from employees' compensation or benefits?
+A: No, the payroll tax should not be deducted from employees' compensation or benefits.
+
+
+Q: What should a person do if they cease to carry on a business during a tax quarter after having paid the payroll tax?
+A: They should apply for a prorated refund based on the period they were not in business during the tax quarter.
+
+
+Q: When is the final tax return due for a business that discontinues operations in Pittsburgh?
+A: The final return is due ten (10) days after the discontinuation of business.
+
+Q: What does 26 U.S.C. § 511 impose on charities?
+A: It imposes a federal tax on unrelated business taxable income of a charity that is exempt from federal tax under section 501(c) of the Internal Revenue Code.
+
+
+Q: Are institutions of purely public charity exempt from payroll tax under the Local Tax Enabling Act?
+A: No, they are not exempt from the payroll tax, except for activities related to their charitable purposes.
+
+
+Q: What must an employer in Pittsburgh do within 15 days if they are not registered?
+A: They must register with the treasurer, providing their name, address, and other required information.
+
+
+Q: Can the payroll tax be deducted from employees' wages?
+A: No, the payroll tax may not be deducted from employees' wages.
+
+
+Q: When is the payroll tax for the first quarter due starting from 2016?
+A: It is due on May 31, based on payroll expenses from January, February, and March of that year.
+
+Q: What is the due date for the second quarterly tax return?
+A: The second quarterly tax return is due August 31 of the current year.
+
+
+Q: When must an employer who discontinues business file their tax return?
+A: Within 10 days after discontinuing business or ceasing operation.
+
+
+Q: What is the interest rate charged on unpaid taxes?
+A: The interest rate is six percent per annum (6%).
+
+
+Q: What additional penalty is applied to unpaid taxes each month?
+A: An additional penalty of one percent (1%) of the unpaid tax for each month or fraction thereof.
+
+
+Q: What powers does the treasurer have regarding the administration and enforcement of the city code?
+A: The treasurer is empowered to prescribe, adopt, promulgate, and enforce rules and regulations related to the administration and enforcement of the city code.
+
+Q: What must taxpayers and employers liable for the payroll tax keep to ensure accurate tax filings?
+A: They are required to keep records that enable the filing of true and accurate returns, preserved for at least three years from the filing or due date.
+
+
+Q: How long does a taxpayer have to respond to audit notices?
+A: A taxpayer has thirty (30) calendar days to respond to audit notices.
+
+
+Q: Under what conditions can a taxpayer request an extension for responding to audit notices?
+A: A taxpayer may request a reasonable extension of time upon showing good cause, in accordance with the local taxpayer bill of rights.
+
+
+Q: What happens if a taxpayer's return is found to be incorrect after an examination by the treasurer?
+A: The treasurer is authorized to assess and collect any underpayments of the payroll tax.
+
+
+Q: Is there a time limit for assessing taxes if no return was filed or a fraudulent return was filed?
+A: There is no limit to the period of assessment if no return was filed or a fraudulent return was filed.
+
+Q: Are the remedies in sections 502 and 505 mutually exclusive?
+A: No, the remedies in sections 502 and 505 are not mutually exclusive.
+
+
+Q: How are voluntary payments applied according to the text?
+A: Voluntary payments are applied first to tax, then to interest, then to penalty, and finally to any other fees or charges.
+
+
+Q: What is the time limit for filing a suit when a return has been filed but no tax paid?
+A: A suit must be filed within three years after the return was due or filed, whichever is later.
+
+
+Q: What is the interest rate applied if the payroll tax is not paid when due?
+A: The interest rate is six percent per annum.
+
+
+Q: Under what circumstances is there no limitation on filing suit for the collection of taxes?
+A: There is no limitation when no return is filed or when the return is fraudulent.
+
+Q: What is not a valid defense against the imposition of penalties for tax violations according to the text?
+A: A person's belief that no tax is due and owing, or failure to receive or obtain the required forms is not a valid defense.
+
+
+Q: Under what condition can penalty and interest be abated according to the text?
+A: Penalty and interest may be abated only in accordance with the Local Taxpayers Bill of Rights, 53 Pa.C.S. § 8428.
+
+
+Q: What is the penalty for an employer who willfully makes a false statement on their return?
+A: The penalty is a misdemeanor of the second degree, with a fine of up to $2,000 or imprisonment for up to two years, or both.
+
+
+Q: What constitutes a misdemeanor of the third degree for an employer under the Pittsburgh Code?
+A: Willfully failing or refusing to file a required return constitutes a misdemeanor of the third degree.
+
+
+Q: What are the consequences for a person who refuses to permit inspection of employer records when required?
+A: The person is guilty of a misdemeanor and may be fined up to $500 or imprisoned for up to six months, or both.
+
+Q: What constitutes a separate offense under § 6924.303(i)?
+A: Each day that a violation continues constitutes a separate offense.
+
+
+Q: What must a taxpayer do within ninety days if aggrieved by an assessment?
+A: Request a treasurer’s hearing on a form obtained from the treasurer.
+
+
+Q: What information must be included in a written petition for reassessment?
+A: The petitioner’s name, address, daytime telephone number, account/social security number, a copy of the assessment notice, a detailed explanation of disagreement, and the petitioner’s signature.
+
+
+Q: How long does the treasurer have to issue a decision after receiving a complete petition?
+A: Sixty days.
+
+
+Q: Where must a completed petition for a treasurer's hearing be mailed?
+A: Treasurer Hearings, Treasurer – City of Pittsburgh, 414 Grant St, Pittsburgh, PA 15219-2476.
+
+Q: Within what timeframe must a request for a tax refund or credit be made if no report is required?
+A: The request must be made within three years after the due date for payment of the tax or within one year after actual payment of the tax, whichever is later.
+
+
+Q: What is the timeframe for filing a written request for a refund for amounts paid due to a notice of underpayment?
+A: A written request must be filed within one year of the date of the payment.
+
+
+Q: How long does the treasurer have to sue for recovery of an erroneous refund?
+A: The treasurer may sue within two years after making the refund, or within five years if the refund was induced by fraud or misrepresentation.
+
+
+Q: What must a taxpayer do to enter an installment payment plan for a tax deficiency?
+A: The taxpayer must specifically request the installment payment plan from the treasurer.
+
+
+Q: Where can a taxpayer obtain a copy of the taxpayer bill of rights?
+A: A copy can be requested in writing from the Treasurer, City of Pittsburgh Audit Section, 414 Grant St Rm 206, Pittsburgh PA 15219-2476, or downloaded from http://apps.pittsburghpa.gov/finance/10_taxpayers_bill_of_rights.pdf.

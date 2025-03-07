@@ -1,0 +1,265 @@
+Q: When did the revised Local Services Tax regulations in Pittsburgh become effective?
+A: January 1, 2020.
+
+
+Q: What section covers the collection of the Local Services Tax through employers?
+A: Section 301.
+
+
+Q: Which section addresses the examination of books and records of taxpayers and employers?
+A: Section 402.
+
+
+Q: What section would you refer to for information on penalties and interest related to unpaid taxes?
+A: Section 504.
+
+
+Q: Where can you find information on taxpayer remedies, including appeals and refunds?
+A: Article VI.
+
+Q: What is the definition of "city" in this context?
+A: City refers to the City of Pittsburgh.
+
+
+Q: What does the term "compensation" include according to the text?
+A: Compensation includes salaries, wages, commissions, tips, bonuses, fees, and net profits from a business.
+
+
+Q: Who is considered an "employer" under this ordinance?
+A: An employer is any entity situated or doing business in the city employing one or more persons, including self-employment, for compensation.
+
+
+Q: What is the income threshold for an "exempt person" in the City of Pittsburgh?
+A: An exempt person is someone who expects to receive less than $12,000 in earned income and net profits within the city in the calendar year.
+
+
+Q: What is the "local services tax" (LST)?
+A: The local services tax is a tax on individuals for the privilege of engaging in an occupation, levied by the political subdivision of the taxpayer’s primary place of employment.
+
+Q: Who is subject to the local services tax according to the city code?
+A: Any natural person who engages in an occupation within the city is subject to the local services tax.
+
+
+Q: What is the annual rate of the local services tax levied for each person engaging in an occupation in the city?
+A: The annual rate of the local services tax is $52.
+
+
+Q: How is the pro rata share of the local services tax determined for each payroll period?
+A: The pro rata share is determined by dividing the annual tax rate of $52 by the number of payroll periods established by the employer for the calendar year.
+
+
+Q: What is the deadline for employers to remit the local services tax?
+A: Employers must remit the local services tax thirty days after the end of each quarter of a calendar year.
+
+
+Q: How can a person claim an exemption from the local services tax beginning in 2008?
+A: A person can claim an exemption by annually filing an exemption certificate with their employer and attaching a copy of all last pay stubs or W-2 forms from the previous year.
+
+Q: What are the conditions under which a person is exempt from the Local Service Tax (LST)?
+A: A person is exempt if they earn less than $12,000 annually, are a veteran with a 100% service-connected disability, or are a reserve component member called to active duty.
+
+
+Q: How is the Local Service Tax (LST) collected for employees earning $12,000 or more?
+A: The employer withholds a pro-rata share of $52 by dividing it across payroll periods, collecting $1 weekly or $4.33 monthly, and remits it quarterly.
+
+
+Q: What should an employer do if an employee expects to earn less than $12,000 for the year?
+A: The employer should not withhold the LST if the employee files an exemption certificate stating they will earn less than $12,000.
+
+
+Q: What happens if an employee initially expected to earn less than $12,000 but later will earn $12,000 or more?
+A: The employer must withhold $40 from the next pay to catch up and then $1 per pay for the remaining pays to total $52.
+
+
+Q: Where can employers and employees download the exemption certificate and LST forms?
+A: They can be downloaded from www.city.pittsburgh.pa.us/finance.
+
+Q: Does a person earning less than $12,000 in any single municipality need to pay the LST?
+A: No, the taxpayer should file an exemption certificate with both employers and have no LST deducted.
+
+
+Q: What is the LST liability for an individual working January to June in the city and July to December in municipality “a”?
+A: The employer in the city should withhold $1 a week for 26 pay periods and remit $26 to the city. Municipality “a” would be entitled to the LST for the 2nd half of the year.
+
+
+Q: How should an employer handle LST for an employee working July to December in the city, earning over $12,000?
+A: The employer should withhold $52, which may be prorated for the rest of the year, or deduct a lump sum for prior periods missed.
+
+
+Q: Where should the LST be paid for an employee with two part-time jobs, one in the city and one in municipality “a”?
+A: The LST should be paid to the city, as it is the principal job paying the most.
+
+
+Q: If an employee paid $10 LST in municipality “a” and starts a new job in the city making over $12,000, how much should the city employer withhold?
+A: The employer must withhold $42, which is $52 less the $10 previously paid, if proof of payment is provided.
+
+Q: What should an employee do if they file their exemption certificate late and the employer has already withheld $52?
+A: The employee should request a refund from the employer, and if not refunded, apply for a refund from the city after the employer's fourth quarter payment is filed.
+
+
+Q: Is an employee required to pay the $52 LST if they work 4 months in the city and earn $20,000 but their employer is located outside Pennsylvania?
+A: Yes.
+
+
+Q: Are self-employed individuals or partners with an office in the city subject to the $52 LST?
+A: Yes, they are subject to the $52 LST, which may be prorated and paid quarterly.
+
+
+Q: When are employers required to remit the local services tax?
+A: Employers must remit the tax within thirty days after the end of each quarter of a calendar year.
+
+
+Q: What must employers do within 15 days after first becoming an employer in the city?
+A: Employers must register with the city, providing their name, address, and other required information.
+
+Q: What must an employee do if their employer fails to deduct the local services tax?
+A: The employee must contact the City of Pittsburgh Finance Department at 412-255-2510 and file an LS-3 form.
+
+
+Q: Under what condition is an employer not liable for failing to withhold the local services tax?
+A: An employer is not liable if the failure arises from incorrect information submitted by the employee regarding their place of employment.
+
+
+Q: What is required on an employee's pay stub regarding the local services tax?
+A: The pay stub must list how much was withheld and the municipality it was paid to, with Pittsburgh listed as "PGH."
+
+
+Q: When can an employer discontinue withholding the local services tax?
+A: An employer can discontinue withholding if the employee provides an exemption certificate showing expected income and/or net profits of less than $12,000.
+
+
+Q: Who is exempt from the local services tax under the military exemption?
+A: Members of a reserve component of the armed forces called to active duty and honorably discharged veterans who are blind, paraplegic, or a double or quadruple amputee due to military service are exempt.
+
+Q: Under what circumstances must employers restart withholding the local service tax (LST) from an employee?
+A: Employers must restart withholding the LST if instructed by the political subdivision, if notified by the employee of ineligibility, or if the employee earns $12,000 or more for the calendar year.
+
+
+Q: What must employers include in the summary attached to the fourth quarter payment for LST?
+A: Employers must include their name, address in Pittsburgh, federal ID number, city account number, and details of each employee such as name, social security number, wages, address, and the amount of LST withheld and paid.
+
+
+Q: How is the priority of claim to collect the LST determined for a taxpayer with multiple jobs in different political subdivisions?
+A: The priority is determined by where the taxpayer is principally employed, where they reside and work, and where they are employed nearest to their home.
+
+
+Q: What are the penalties for employers who fail to pay the required LST by the due date?
+A: A penalty of 5% per month, up to a maximum of 50%, plus interest at 12% per annum, is added for unpaid taxes.
+
+
+Q: What is the requirement for taxpayers who are self-employed or did not have the LST withheld?
+A: They must file an LS-3 form and pay the $52 tax directly to the treasurer on a quarterly basis, 30 days after each quarter ends.
+
+Q: What is the duty of the treasurer according to Section 401 of the city code?
+A: The treasurer is responsible for collecting and receiving taxes, fines, and penalties, and keeping a record of such receipts.
+
+
+Q: What authority does the treasurer have regarding the administration and enforcement of the city code?
+A: The treasurer can prescribe, adopt, promulgate, and enforce rules and regulations related to the administration and enforcement of the code.
+
+
+Q: What must a taxpayer or employer do if records are not available in the city?
+A: They must either produce the records in a city location or pay for the treasurer's travel expenses to where the records are kept.
+
+
+Q: How long does a taxpayer or employer have to respond to written requests for information from the city?
+A: They have 30 days from the mailing date to respond, unless an extension is granted.
+
+
+Q: Under what condition can information gained by the treasurer or agents be disclosed?
+A: Information can only be disclosed for official purposes.
+
+Q: What records are employers required to keep for local services tax filings?
+A: Employers must keep records, including exemption certificates, to enable accurate local services tax filings.
+
+
+Q: How long must employers preserve records related to local services tax?
+A: Employers must preserve records for at least three years from the filing date or due date, whichever is later.
+
+
+Q: What actions can the treasurer take if a local services tax return is found to be incorrect?
+A: The treasurer can assess and collect any underpayments and, if no return is filed, assess and collect taxes due without obtaining a return.
+
+
+Q: Are the remedies provided in sections 502 and 505 mutually exclusive?
+A: No, the remedies are not mutually exclusive, and the use of one does not preclude the use of the other or any other legal or administrative procedure.
+
+
+Q: What actions may the treasurer take to recover unpaid taxes under the local services tax?
+A: The treasurer may sue for recovery, compel record production, audit records, obtain liens, and impose interest and penalties, among other actions.
+
+Q: What is the time limit for beginning a suit to recover unpaid taxes if a return was filed but no tax was paid?
+A: The suit must begin within three years after the return was due or filed, whichever is later.
+
+
+Q: Under what conditions is there no limitation on the period for instituting a suit for tax collection?
+A: There is no limitation when no return was filed or when the return is fraudulent.
+
+
+Q: What is the penalty rate for unpaid local services tax?
+A: The penalty is five percent per month, not to exceed fifty percent.
+
+
+Q: How is interest on unpaid local services tax calculated?
+A: Interest is calculated at the rate of twelve percent per annum on the amount of tax.
+
+
+Q: What is the time limit for beginning a suit when there is an understatement of tax liability of twenty-five percent or more?
+A: The suit must begin within six years, unless the understatement is due to fraud.
+
+Q: What is the maximum fine for violating the applicable provisions mentioned in the text?
+A: The maximum fine is five hundred ($500.00) dollars and costs for each offense.
+
+
+Q: How long can someone be imprisoned if they default on payment of the fines?
+A: They can be imprisoned for not more than fifty (50) days.
+
+
+Q: What must a taxpayer do to enter into an installment payment plan for tax deficiencies?
+A: The taxpayer must enter into a written agreement with the treasurer and specifically request the installment payment plan.
+
+
+Q: Within how many days must a taxpayer request a treasurer’s hearing after receiving an assessment notice?
+A: Within ninety (90) days after the date of notice of the assessment.
+
+
+Q: What information must be included in a written petition for reassessment?
+A: The petition must include the taxpayer’s name, address, daytime telephone number, account and/or social security number, a copy of the assessment notice, a detailed explanation of disagreement, and the taxpayer’s signature.
+
+Q: What is required for a taxpayer to request a treasurer's hearing for a tax refund review?
+A: A taxpayer must submit a request to have their tax refund request reviewed at a treasurer's hearing.
+
+
+Q: Within what timeframe must the treasurer issue a decision after receiving a complete petition form?
+A: The treasurer must issue a decision within 60 days of receiving the taxpayer's complete and accurate petition form.
+
+
+Q: What is the deadline for a taxpayer to appeal the treasurer's decision to the Court of Common Pleas of Allegheny County?
+A: The appeal must be commenced within thirty (30) days of the date of the treasurer’s decision.
+
+
+Q: What conditions must be met for a refund request related to overpaid local services tax?
+A: A refund request must be made within three (3) years of the due date for filing the return or one (1) year after actual payment of the tax, whichever is later.
+
+
+Q: What proof must an employer provide to receive a refund for an overpayment of tax?
+A: An employer must provide proof that the overpayment has been refunded to the person from whom the tax was originally withheld, or demonstrate a computation error where the tax was not withheld from any person.
+
+Q: What happens if a court finds a provision of the regulations illegal or unconstitutional?
+A: The other provisions remain in full force and effect.
+
+
+Q: What is the intent of the treasurer regarding the severability of the regulations?
+A: The provisions are intended to be severable and would have been adopted without any illegal or unconstitutional provisions.
+
+
+Q: How can one obtain a copy of the taxpayer bill of rights?
+A: It can be requested in writing at the provided address or downloaded online.
+
+
+Q: What is the address to request a copy of the taxpayer bill of rights in writing?
+A: Treasurer, City of Pittsburgh, Audit Section, 414 Grant St, RM 206, Pittsburgh, PA 15219-2476.
+
+
+Q: Where can the taxpayer bill of rights be downloaded?
+A: At http://apps.pittsburghpa.gov/finance/10_taxpayers_bill_of_rights.pdf.

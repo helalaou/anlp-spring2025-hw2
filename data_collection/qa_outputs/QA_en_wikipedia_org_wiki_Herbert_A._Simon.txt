@@ -1,0 +1,1840 @@
+Q: When was Herbert A. Simon born?
+A: June 15, 1916
+
+
+Q: Where did Herbert A. Simon pass away?
+A: Pittsburgh, Pennsylvania, U.S.
+
+
+Q: For what concepts is Herbert A. Simon best known?
+A: Bounded rationality and satisficing
+
+
+Q: Which prestigious awards did Herbert A. Simon receive?
+A: Turing Award (1975) and Nobel Prize in Economics (1978)
+
+
+Q: Which university did Herbert A. Simon attend for his BA and PhD?
+A: University of Chicago
+
+
+Q: What was Herbert A. Simon's primary research interest?
+A: Decision-making within organizations
+
+
+Q: At which university did Herbert A. Simon spend most of his career?
+A: Carnegie Mellon University
+
+
+Q: What fields did Herbert A. Simon's work influence?
+A: Computer science, economics, and cognitive psychology
+
+
+Q: What is the title of Herbert A. Simon's influential book on decision-making?
+A: Administrative Behavior
+
+
+Q: What was one of Herbert A. Simon's contributions to the field of artificial intelligence?
+A: Creating the Logic Theory Machine and the General Problem Solver
+
+
+Q: What prediction did Herbert A. Simon make about computer chess?
+A: He predicted that computer chess would surpass human abilities within ten years (though it took about forty years).
+
+
+Q: Who were some of Herbert A. Simon's doctoral students?
+A: Edward Feigenbaum, Allen Newell, Richard Waldinger, John Muth, William F. Pounds, Oliver E. Williamson, Saras Sarasvathy, David Bree
+
+
+Q: What did Herbert A. Simon argue about traditional economics' understanding of decision-making?
+A: He criticized it for being idealistic and unrealistic.
+
+
+Q: What interdisciplinary fields did Herbert A. Simon's research span?
+A: Cognitive science, computer science, public administration, management, and political science
+
+
+Q: What was Herbert A. Simon's role in the development of artificial intelligence?
+A: He was a pioneer, contributing to the creation of early AI programs like the Logic Theory Machine and General Problem Solver.
+
+Q: What did Simon's work on emotional cognition initially receive from the artificial intelligence research community?
+A: Simon's work on emotional cognition was largely ignored by the artificial intelligence research community for several years.
+
+
+Q: Who helped refocus attention on Simon's paper on emotional cognition?
+A: Subsequent work on emotions by Sloman and Picard helped refocus attention on Simon's paper.
+
+
+Q: With whom did Simon collaborate to develop a theory for simulating human problem-solving behavior?
+A: Simon collaborated with Allen Newell to develop a theory for simulating human problem-solving behavior using production rules.
+
+
+Q: What experimental technique did Simon develop with Anders Ericsson?
+A: Simon developed the experimental technique of verbal protocol analysis with Anders Ericsson.
+
+
+Q: How long did Simon estimate it takes to become an expert on a topic?
+A: Simon estimated that it takes about ten years of experience to become an expert on a topic.
+
+
+Q: How many chunks of information did Simon estimate an expert learns?
+A: Simon estimated that an expert learns roughly 50,000 chunks of information.
+
+
+Q: What award did Simon receive in 1975, and with whom did he share it?
+A: Simon received the ACM Turing Award in 1975, which he shared with Allen Newell.
+
+
+Q: What is the EPAM theory, and with whom did Simon develop it?
+A: The EPAM theory is one of the first theories of learning implemented as a computer program, developed by Simon with Edward Feigenbaum.
+
+
+Q: What is the concept of "bounded rationality" as described by Simon?
+A: Bounded rationality is the idea that agents make decisions with limited information and cognitive capacity, often choosing options that are satisfactory rather than optimal.
+
+
+Q: For what contribution was Simon awarded the Nobel Prize in Economics in 1978?
+A: Simon was awarded the Nobel Prize in Economics for his pioneering research into the decision-making process within economic organizations.
+
+
+Q: What did Simon argue regarding land value tax?
+A: Simon argued that land value tax should replace taxes on wages.
+
+
+Q: What was Simon's stance on the role of practice in learning, according to a 2000 paper?
+A: Simon argued that practice is critical for achieving real competence and that denying the role of practice is detrimental to children's learning.
+
+
+Q: How many books and papers did Simon author, and how is he recognized in terms of citations?
+A: Simon authored 27 books and almost a thousand papers, and he was the most cited person in artificial intelligence and cognitive psychology on Google Scholar as of 2016.
+
+
+Q: What is the title of Simon's 1947 book on decision-making processes?
+A: The title of Simon's 1947 book is "Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization."
+
+
+Q: What theorem did Simon and David Hawkins discover and prove?
+A: Simon and David Hawkins discovered and proved the Hawkins–Simon theorem on the conditions for the existence of positive solution vectors for input-output matrices.
+
+Q: When was Herbert Simon among the first members of the Society for General Systems Research?
+A: During the 1950s.
+
+
+Q: What were Herbert Simon's interests outside of his professional work?
+A: He was a pianist, had a keen interest in the arts, and was a keen mountain climber.
+
+
+Q: Who painted Herbert Simon's commissioned portrait at Carnegie Mellon University?
+A: Richard Rappaport.
+
+
+Q: What course did Herbert Simon teach that reflects his wide range of interests?
+A: An undergraduate course on the French Revolution.
+
+
+Q: What medical procedure did Herbert Simon undergo in January 2001?
+A: Surgery to remove a cancerous tumor in his abdomen.
+
+
+Q: What was the outcome of Herbert Simon's surgery in 2001?
+A: The surgery was successful, but he later died from complications.
+
+
+Q: When did Herbert Simon's wife pass away?
+A: In 2002, a year after Herbert Simon's death.
+
+
+Q: What is one of the themes that unify most of Herbert Simon's contributions?
+A: Studies and models of decision-making.
+
+
+Q: What was Herbert Simon's religious conviction during his high school years?
+A: He was "religiously an atheist," a conviction that never wavered.
+
+Q: Who were the recipients of the Nobel Prize in Chemistry in 1978?
+A: The recipient was Peter D. Mitchell from the United Kingdom.
+
+
+Q: Which two individuals received the Nobel Peace Prize in 1978?
+A: Anwar Sadat from Egypt and Menachem Begin from Israel.
+
+
+Q: Who was awarded the Sveriges Riksbank Prize in Economic Sciences in 1978?
+A: Herbert A. Simon from the United States.
+
+
+Q: Who were the Nobel Prize winners in Physics in 1978?
+A: Pyotr Kapitsa from the Soviet Union, Arno Allan Penzias, and Robert Woodrow Wilson from the United States.
+
+
+Q: Who were the 1978 Nobel Prize laureates in Physiology or Medicine?
+A: Werner Arber from Switzerland, Daniel Nathans, and Hamilton O. Smith from the United States.
+
+
+Q: Who was awarded the A. M. Turing Award in 1974?
+A: Donald Knuth.
+
+
+Q: Who shared the Nobel Prize in Economic Sciences in 1969?
+A: Ragnar Frisch and Jan Tinbergen.
+
+
+Q: Who was the Nobel Prize winner in Literature in 1978?
+A: Isaac Bashevis Singer from Poland/United States.
+
+
+Q: Which two individuals were awarded the John von Neumann Theory Prize in 1978?
+A: John F. Nash and Carlton E. Lemke.
+
+
+Q: Who received the Nobel Prize in Economic Sciences in 1994?
+A: John C. Harsanyi, John F. Nash Jr., and Reinhard Selten.
+
+
+Q: Who were the recipients of the Nobel Prize in Economic Sciences in 2023?
+A: Claudia Goldin.
+
+
+Q: Who was awarded the A. M. Turing Award in 1983?
+A: Ken Thompson and Dennis Ritchie.
+
+
+Q: Who were the recipients of the Nobel Prize in Economic Sciences in 1979?
+A: Theodore W. Schultz and Sir Arthur Lewis.
+
+
+Q: Who received the John von Neumann Theory Prize in 1990?
+A: Richard Karp.
+
+Q: What are Herbert A. Simon's most notable theories?
+A: Herbert A. Simon is best known for the theories of "bounded rationality" and "satisficing."
+
+
+Q: Which prestigious awards did Herbert A. Simon receive?
+A: Herbert A. Simon received the Turing Award in 1975 and the Nobel Memorial Prize in Economic Sciences in 1978.
+
+
+Q: What was Herbert A. Simon's primary research interest?
+A: Herbert A. Simon's primary research interest was decision-making within organizations.
+
+
+Q: At which university did Herbert A. Simon spend most of his career?
+A: Herbert A. Simon spent most of his career at Carnegie Mellon University.
+
+
+Q: What was the subject of Herbert A. Simon's doctoral dissertation?
+A: The subject of Herbert A. Simon's doctoral dissertation was organizational decision-making.
+
+
+Q: Who was Herbert A. Simon's doctoral advisor?
+A: Herbert A. Simon's doctoral advisor was Henry Schultz.
+
+
+Q: What interdisciplinary fields did Herbert A. Simon's research span?
+A: Herbert A. Simon's research spanned cognitive science, computer science, public administration, management, and political science.
+
+
+Q: What book did Herbert A. Simon write that is central to his work on decision-making?
+A: Herbert A. Simon wrote "Administrative Behavior," which is central to his work on decision-making.
+
+
+Q: What did Herbert A. Simon argue about human rationality in decision-making?
+A: Herbert A. Simon argued that human rationality in decision-making is limited, contrary to the "homo economicus" model.
+
+
+Q: Where and when was Herbert A. Simon born?
+A: Herbert A. Simon was born in Milwaukee, Wisconsin, on June 15, 1916.
+
+
+Q: What was Herbert A. Simon's educational background?
+A: Herbert A. Simon received both his B.A. and Ph.D. in political science from the University of Chicago.
+
+
+Q: What did Herbert A. Simon contribute to in terms of economic analysis?
+A: Herbert A. Simon contributed to mathematical economics, human rationality, behavioral study of firms, and econometrics.
+
+
+Q: What significant role did Herbert A. Simon play at Carnegie Mellon University?
+A: Herbert A. Simon helped found the Carnegie Mellon School of Computer Science.
+
+
+Q: What did Herbert A. Simon's theory of administrative behavior emphasize?
+A: Herbert A. Simon's theory of administrative behavior emphasized the behavioral and cognitive processes of humans making rational decisions.
+
+Q: What did Herbert Simon argue about knowledge of alternatives and consequences in decision-making?
+A: Simon argued that knowledge of all alternatives or all consequences that follow from each alternative is impossible in many realistic cases.
+
+
+Q: What concept is central to Herbert Simon's theory of decision-making?
+A: Bounded rationality is central to Simon's theory of decision-making.
+
+
+Q: What did Herbert Simon and Allen Newell create in the field of artificial intelligence?
+A: They created the Logic Theory Machine (1956) and the General Problem Solver (GPS) (1957).
+
+
+Q: What was Herbert Simon's prediction about computer chess?
+A: Simon predicted in 1957 that computer chess would surpass human chess abilities within ten years, which actually took about forty years.
+
+
+Q: What is the significance of Simon's work with Anders Ericsson?
+A: They developed the experimental technique of verbal protocol analysis to study human problem-solving.
+
+
+Q: What award did Herbert Simon receive for his contributions to artificial intelligence and human cognition?
+A: He received the ACM Turing Award in 1975.
+
+
+Q: What did Herbert Simon win the Nobel Prize for in 1978?
+A: He won for his pioneering research into the decision-making process within economic organizations.
+
+
+Q: How did Herbert Simon view the role of practice in learning, according to his co-authored paper?
+A: Simon argued that real competence only comes with extensive practice, countering the criticism that practice hampers understanding.
+
+
+Q: What did Herbert Simon and Edward Feigenbaum develop in the field of learning?
+A: They developed the EPAM (Elementary Perceiver and Memorizer) theory.
+
+
+Q: What is the focus of Simon's concept of "administrative behavior"?
+A: It addresses a wide range of human behaviors, cognitive abilities, management techniques, and communication processes in decision-making.
+
+
+Q: What did Herbert Simon contribute to the field of sociology and economics?
+A: He is credited with revolutionary changes in microeconomics and the concept of organizational decision-making.
+
+
+Q: What is Herbert Simon's view on authority and loyalty in organizational behavior?
+A: Authority is the ability and right of a higher-ranked individual to guide decisions, while loyalty involves substituting organizational objectives for personal aims.
+
+Q: What is the title of Herbert Simon's autobiography?
+A: "Models of My Life"
+
+
+Q: When was the 4th edition of "Administrative Behavior" published?
+A: 1997
+
+
+Q: Which book by Herbert Simon is described as a compact summary of his criticisms of conventional microeconomics?
+A: "An Empirically Based Microeconomics"
+
+
+Q: Who co-authored "Human Problem Solving" with Herbert Simon in 1972?
+A: Allen Newell
+
+
+Q: What theorem did Herbert Simon and David Hawkins discover?
+A: The Hawkins–Simon theorem
+
+
+Q: What was Herbert Simon's role in the Society for General Systems Research?
+A: He was among the first members.
+
+
+Q: In which year did Herbert Simon undergo surgery to remove a cancerous tumor?
+A: 2001
+
+
+Q: Which book by Herbert Simon is considered "the most important book on the scientific study of human thinking in the 20th century"?
+A: "Human Problem Solving"
+
+
+Q: What was one of Herbert Simon's personal interests outside of his professional work?
+A: He was a pianist and had a keen interest in the arts.
+
+
+Q: What was the subject of Herbert Simon's lectures at Stanford in 1982 that later became a book?
+A: Human decision-making and information processing, titled "Reason in Human Affairs"
+
+
+Q: What was the focus of Herbert Simon's work titled "The Sciences of the Artificial"?
+A: Modeling complex systems and human information-processing systems.
+
+
+Q: Who were Herbert Simon's collaborators on "Scientific Discovery: Computational Explorations of the Creative Processes"?
+A: P. Langley, G. Bradshaw, and J. Zytkow
+
+
+Q: What was Herbert Simon's relationship to Robert Lepper and Richard Rappaport?
+A: He was a friend of both, and Rappaport painted Simon's portrait at Carnegie Mellon University.
+
+
+Q: When did Herbert Simon's wife, Dorothea, pass away?
+A: 2002
+
+
+Q: What significant contribution to economics did Herbert Simon make in the 1950s?
+A: He studied mathematical economics and contributed to the development of the Hawkins–Simon theorem.
+
+Q: Who was the 1978 Nobel Memorial Prize in Economics laureate?
+A: Herbert A. Simon.
+
+
+Q: What is the title of the 2001 article commemorating Herbert A. Simon?
+A: "Remembering Herbert A. Simon (1916-2001)".
+
+
+Q: Which journal published an article in 2001 about Herbert A. Simon?
+A: Public Administration Review.
+
+
+Q: Who wrote the editor's introduction in the Journal of Econometrics in 1997?
+A: Alok Bhargava.
+
+
+Q: What topic did P.J. Courtois's 1977 book address?
+A: Decomposability in queueing and computer system applications.
+
+
+Q: What award did Herbert A. Simon receive in 1986?
+A: The United States National Medal of Science in Behavioral and Social Science.
+
+
+Q: Which book commemorates the centennial of Herbert Simon's birth?
+A: "Minds, Models and Milieux: Commemorating the Centennial of the Birth of Herbert Simon".
+
+
+Q: Who were the editors of the book commemorating Herbert Simon's centennial?
+A: R. Frantz and L. Marsh.
+
+
+Q: In which year did Herbert A. Simon deliver his Nobel Prize lecture?
+A: December 8, 1978.
+
+
+Q: What is the title of Herbert A. Simon's 1962 paper?
+A: "The Architecture of Complexity".
+
+
+Q: Which project archives Herbert Alexander Simon's work?
+A: The Mathematics Genealogy Project and the AI Genealogy Project.
+
+
+Q: When was Herbert A. Simon awarded the Nobel Prize in Economics?
+A: 1978.
+
+
+Q: What is the subject of Herbert A. Simon's Nobel Prize lecture?
+A: Rational decision-making in business organizations.
+
+Q: Who were the recipients of the Nobel Prize in Physiology or Medicine from the United States mentioned in the text?
+A: Daniel Nathans, Hamilton O. Smith.
+
+
+Q: Which award did Herbert A. Simon receive in 1975?
+A: Turing Award.
+
+
+Q: What is Herbert A. Simon best known for in his research?
+A: Theories of "bounded rationality" and "satisficing".
+
+
+Q: Where did Herbert A. Simon spend most of his career?
+A: Carnegie Mellon University.
+
+
+Q: What major award did Herbert A. Simon receive in 1978?
+A: Nobel Memorial Prize in Economic Sciences.
+
+
+Q: What interdisciplinary fields did Herbert A. Simon's research span?
+A: Cognitive science, computer science, public administration, management, and political science.
+
+
+Q: What was Herbert A. Simon's primary research interest?
+A: Decision-making within organizations.
+
+
+Q: Who were some of Herbert A. Simon's doctoral students?
+A: Edward Feigenbaum, Allen Newell, Richard Waldinger, John Muth, William F. Pounds, Oliver E. Williamson, Saras Sarasvathy, David Bree.
+
+
+Q: When was Herbert A. Simon born and when did he die?
+A: Born on June 15, 1916, and died on February 9, 2001.
+
+
+Q: What significant contribution did Herbert A. Simon make to Carnegie Mellon University?
+A: Helped found the Carnegie Mellon School of Computer Science.
+
+
+Q: What early influences shaped Herbert A. Simon's interest in social science?
+A: His uncle Harold Merkel's books on economics and psychology.
+
+
+Q: What notable mechanism did Herbert A. Simon propose to explain power law distributions?
+A: Preferential attachment mechanism.
+
+
+Q: What was Herbert A. Simon's educational background?
+A: He attended the University of Chicago, obtaining a BA and PhD.
+
+
+Q: Which fields did Herbert A. Simon pioneer?
+A: Artificial intelligence, information processing, decision-making, problem-solving, organization theory, and complex systems.
+
+
+Q: What was Herbert A. Simon's father's profession?
+A: Electrical engineer and independent patent attorney.
+
+Q: What fields did Simon initially decide to study?
+A: Social science and mathematics.
+
+
+Q: Why did Simon choose not to pursue a career in biology?
+A: Because of his "color-blindness and awkwardness in the laboratory."
+
+
+Q: Who was Simon's most important mentor during his studies?
+A: Henry Schultz, an econometrician and mathematical economist.
+
+
+Q: From which university did Simon receive his B.A. and Ph.D.?
+A: The University of Chicago.
+
+
+Q: What was the subject of Simon's doctoral dissertation?
+A: Organizational decision-making.
+
+
+Q: Where did Simon work from 1939 to 1942?
+A: University of California, Berkeley.
+
+
+Q: What position did Simon hold at the Illinois Institute of Technology?
+A: Professor of political science and department chairman.
+
+
+Q: At which university was Simon a faculty member from 1949 to 2001?
+A: Carnegie-Mellon University.
+
+
+Q: What book is Simon best known for, which is based on his doctoral dissertation?
+A: Administrative Behavior.
+
+
+Q: What are the three stages in Simon's rational decision-making model?
+A: Intelligence, design, choice (IDC).
+
+
+Q: What did Simon argue about human rationality in decision-making?
+A: That human rationality is limited and decision-making involves selecting alternatives with imperfect knowledge.
+
+
+Q: What concept did Simon introduce that became central in behavioral economics?
+A: Bounded rationality.
+
+
+Q: What was Simon's prediction about computer chess in 1957?
+A: That computer chess would surpass human abilities within "ten years."
+
+
+Q: With whom did Simon collaborate to develop theories in artificial intelligence?
+A: Allen Newell.
+
+
+Q: What award did Simon receive with Allen Newell in 1975?
+A: The ACM Turing Award.
+
+
+Q: What theory did Simon develop with Edward Feigenbaum in the field of psychology?
+A: The EPAM (Elementary Perceiver and Memorizer) theory.
+
+
+Q: What concept is Simon credited with introducing in microeconomics?
+A: Organizational decision-making.
+
+
+Q: For what contribution was Simon awarded the Nobel Prize in 1978?
+A: For his work in decision-making and bounded rationality.
+
+Q: What term is used to describe rational choices that consider cognitive limitations?
+A: The term "bounded rationality" is used to describe rational choices that consider cognitive limitations.
+
+
+Q: How do psychologists and economists differ in their definition of rationality?
+A: Psychologists use a "procedural" definition of rationality, while economists use a "substantive" definition.
+
+
+Q: What did Gustavos Barros argue about procedural rationality in the field of economics?
+A: Gustavos Barros argued that the procedural rationality concept does not have a significant presence in the economics field.
+
+
+Q: What did Simon's research on industrial organization reveal about firms' decisions?
+A: Simon's research revealed that the internal organization of firms and their external business decisions did not conform to neoclassical theories of "rational" decision-making.
+
+
+Q: What is the theory of subjective expected utility in economics?
+A: The theory of subjective expected utility in economics states that individuals maximize their utility function under constraints in pursuit of their self-interest.
+
+
+Q: How did Simon believe the best way to study decision-making areas was?
+A: Simon believed the best way to study decision-making areas was through computer simulations.
+
+
+Q: What were Simon's main interests in computer science?
+A: Simon's main interests in computer science included artificial intelligence, human-computer interaction, and the principles of the organization of humans and machines as information processing systems.
+
+
+Q: What economic idea did Simon maintain throughout his life?
+A: Simon maintained the idea of land value tax replacing taxes on wages.
+
+
+Q: Who was influenced by Simon's work in improving mathematics performance in education?
+A: John Mighton, developer of a program for improving mathematics performance among students, was influenced by Simon's work.
+
+
+Q: What notable awards did Herbert A. Simon receive during his lifetime?
+A: Herbert A. Simon received the Turing Award (1975), the Nobel Memorial Prize in Economics (1978), and the National Medal of Science (1986), among others.
+
+
+Q: How many books and papers did Herbert A. Simon author?
+A: Herbert A. Simon authored 27 books and almost a thousand papers.
+
+
+Q: What theorem did Simon discover with David Hawkins?
+A: Simon and David Hawkins discovered and proved the Hawkins-Simon theorem on conditions for the existence of positive solution vectors for input-output matrices.
+
+
+Q: What personal interests did Simon have outside of his academic work?
+A: Simon had interests in playing the piano, the arts, mountain climbing, and teaching a course on the French Revolution.
+
+Q: Who is cited by Simon in 1976 for their work published in 1938?
+A: Barnard is cited by Simon in 1976 for their work published in 1938.
+
+
+Q: What is the title of Herbert A. Simon's book mentioned in the text?
+A: "Administrative Behavior, 4th Edition."
+
+
+Q: Which publication by Herbert A. Simon is archived at Carnegie Mellon University?
+A: "A Theory of Emotional Behavior" and "Motivational and Emotional Controls of Cognition."
+
+
+Q: What is the subject of the book "The Book of Why" by Judea Pearl and Dana Mackenzie?
+A: The new science of cause and effect.
+
+
+Q: What is the title of the paper by Allen Newell and Herbert A. Simon published in 1972?
+A: "Human Problem Solving."
+
+
+Q: Which award did Herbert A. Simon receive in 1978?
+A: Nobel Memorial Prize in Economics.
+
+
+Q: What concept is Herbert A. Simon associated with in the 1990 publication?
+A: Bounded Rationality.
+
+
+Q: What is the title of the 1962 paper by Herbert A. Simon?
+A: "The Architecture of Complexity."
+
+
+Q: Who collaborated with Herbert A. Simon on the publication "Protocol Analysis: Verbal Reports as Data"?
+A: K. A. Ericsson.
+
+
+Q: What is the focus of the 1984 paper by Feigenbaum and Simon?
+A: "EPAM-like Models of Recognition and Learning."
+
+
+Q: Which university library holds the Herbert A. Simon collected papers?
+A: Carnegie Mellon University Library.
+
+
+Q: What is the main topic of Herbert A. Simon's 1967 paper in Psychological Review?
+A: "Motivational and Emotional Controls of Cognition."
+
+
+Q: Who are the editors of the 2016 book commemorating Herbert Simon's centennial?
+A: R. Frantz and L. Marsh.
+
+Q: Who received the National Medal of Science in Mathematics in 1997?
+A: Shing-Tung Yau
+
+
+Q: Who were the recipients of the National Medal of Science in Physical Sciences in 1963?
+A: Luis W. Alvarez
+
+
+Q: Who won the Sveriges Riksbank Prize in Economic Sciences in 1970?
+A: Paul A. Samuelson
+
+
+Q: Who was awarded the Turing Award in 1966?
+A: Alan Perlis
+
+
+Q: Who received the John von Neumann Theory Prize in 1975?
+A: George Dantzig
+
+
+Q: Who were the Nobel Prize laureates in Chemistry in 1978?
+A: Peter D. Mitchell
+
+
+Q: Who won the Nobel Prize in Economic Sciences in 1978?
+A: Herbert A. Simon
+
+
+Q: Who were the recipients of the Turing Award in 1983?
+A: Ken Thompson and Dennis Ritchie
+
+
+Q: Who received the Sveriges Riksbank Prize in Economic Sciences in 1998?
+A: Amartya Sen
+
+
+Q: Who were the Turing Award recipients in 2002?
+A: Ron Rivest, Adi Shamir, and Leonard Adleman
+
+
+Q: Who won the Nobel Prize in Economic Sciences in 2009?
+A: Elinor Ostrom and Oliver E. Williamson
+
+
+Q: Who received the John von Neumann Theory Prize in 1981?
+A: Lloyd Shapley
+
+
+Q: Who were the Nobel Peace Prize laureates in 1978?
+A: Anwar Sadat and Menachem Begin
+
+
+Q: Who was awarded the Turing Award in 1974?
+A: Donald Knuth
+
+
+Q: Who received the National Medal of Science in Physical Sciences in 2003?
+A: Riccardo Giacconi
+
+
+Q: Who was awarded the Sveriges Riksbank Prize in Economic Sciences in 2023?
+A: Claudia Goldin
+
+
+Q: Who won the Nobel Prize in Literature in 1978?
+A: Isaac Bashevis Singer
+
+
+Q: Who were the recipients of the Nobel Prize in Physics in 1978?
+A: Pyotr Kapitsa, Arno Allan Penzias, and Robert Woodrow Wilson
+
+Q: When and where was Herbert A. Simon born?
+A: Herbert A. Simon was born on June 15, 1916, in Milwaukee, Wisconsin, U.S.
+
+
+Q: What are Herbert A. Simon's notable theories?
+A: Herbert A. Simon is best known for the theories of "bounded rationality" and "satisficing."
+
+
+Q: For which fields did Herbert A. Simon's work have a significant influence?
+A: Herbert A. Simon's work influenced the fields of computer science, economics, and cognitive psychology.
+
+
+Q: At which university did Herbert A. Simon spend most of his career?
+A: Herbert A. Simon spent most of his career at Carnegie Mellon University.
+
+
+Q: What prestigious awards did Herbert A. Simon receive?
+A: Herbert A. Simon received the Turing Award in 1975 and the Nobel Prize in Economics in 1978.
+
+
+Q: What was Herbert A. Simon's primary research interest?
+A: Herbert A. Simon's primary research interest was decision-making within organizations.
+
+
+Q: How did Herbert A. Simon contribute to the field of artificial intelligence?
+A: Herbert A. Simon was among the pioneers of artificial intelligence, information processing, decision-making, and problem-solving.
+
+
+Q: What was the title of Herbert A. Simon's influential book on decision-making?
+A: Herbert A. Simon's influential book on decision-making is titled "Administrative Behavior."
+
+
+Q: What is the concept of "bounded rationality" as proposed by Herbert A. Simon?
+A: "Bounded rationality" is the idea that in decision-making, the cognitive limitations of the mind restrict the rationality of choices.
+
+
+Q: What role did Herbert A. Simon play in the creation of the Carnegie Mellon School of Computer Science?
+A: Herbert A. Simon helped found the Carnegie Mellon School of Computer Science.
+
+
+Q: What educational qualifications did Herbert A. Simon achieve at the University of Chicago?
+A: Herbert A. Simon received both his B.A. in 1936 and his Ph.D. in 1943 in political science from the University of Chicago.
+
+
+Q: What is the significance of Herbert A. Simon's book "Administrative Behavior"?
+A: "Administrative Behavior" is significant for its exploration of the behavioral and cognitive processes involved in human decision-making.
+
+
+Q: In what year did Herbert A. Simon pass away, and where?
+A: Herbert A. Simon passed away on February 9, 2001, in Pittsburgh, Pennsylvania, U.S.
+
+
+Q: What was Herbert A. Simon's role at the Illinois Institute of Technology?
+A: Herbert A. Simon was a professor of political science and department chairman at the Illinois Institute of Technology from 1942 to 1949.
+
+
+Q: How did Herbert A. Simon's family background influence his early interest in science?
+A: Herbert A. Simon's family introduced him to the idea that human behavior could be studied scientifically, influencing his early interest in science.
+
+Q: Who was Herbert Simon critical of regarding decision-making processes?
+A: Herbert Simon was critical of traditional economics' understanding of decision-making.
+
+
+Q: What did Herbert Simon rediscover that was originally invented by Sewall Wright?
+A: Herbert Simon rediscovered path diagrams.
+
+
+Q: What programs did Herbert Simon and Allen Newell create in the field of artificial intelligence?
+A: They created the Logic Theory Machine (1956) and the General Problem Solver (GPS) (1957).
+
+
+Q: What prediction did Herbert Simon make about computer chess in 1957?
+A: Simon predicted that computer chess would surpass human chess abilities within ten years.
+
+
+Q: What concept did Herbert Simon introduce regarding decision-making in economics?
+A: He introduced the concept of "bounded rationality."
+
+
+Q: What award did Herbert Simon win in 1978, and for what contribution?
+A: Herbert Simon won the Nobel Memorial Prize in Economics for his research into decision-making processes within economic organizations.
+
+
+Q: What was the focus of Simon's collaboration with Edward Feigenbaum?
+A: They developed the EPAM (Elementary Perceiver and Memorizer) theory, a theory of learning implemented as a computer program.
+
+
+Q: What is the significance of Simon's work on emotional cognition?
+A: Although initially ignored, it later became influential due to subsequent work by Sloman and Picard.
+
+
+Q: What did Simon argue about the role of practice in learning, according to a paper he co-authored in 2000?
+A: Simon argued that extensive practice is critical for achieving real competence.
+
+
+Q: What did Herbert Simon contribute to the study of human problem-solving?
+A: He developed a theory for simulating human problem-solving behavior using production rules.
+
+
+Q: What is the title of Herbert Simon's autobiography?
+A: "Models of My Life."
+
+
+Q: What field did Simon's work on "bounded rationality" significantly impact?
+A: Behavioral economics.
+
+
+Q: What notable award did Herbert Simon receive in 1975 along with Allen Newell?
+A: The ACM Turing Award.
+
+
+Q: What did Simon's work in sociology and economics revolutionize?
+A: Organizational decision-making and microeconomics.
+
+
+Q: What did Herbert Simon and Anders Ericsson develop together?
+A: The experimental technique of verbal protocol analysis.
+
+Q: Who did Herbert Simon marry in 1938?
+A: Herbert Simon married Dorothea Pye in 1938.
+
+
+Q: How many children did Herbert Simon have, and what are their names?
+A: Herbert Simon had three children: Katherine, Peter, and Barbara.
+
+
+Q: What significant theorem did Herbert Simon discover with David Hawkins?
+A: Herbert Simon and David Hawkins discovered and proved the Hawkins–Simon theorem on the conditions for the existence of positive solution vectors for input-output matrices.
+
+
+Q: What was Herbert Simon's approach to studying problem-solving by 1954?
+A: By 1954, Herbert Simon determined that the best way to study problem-solving was to simulate it with computer programs.
+
+
+Q: What was one of Herbert Simon's interests outside of his professional work?
+A: Herbert Simon was a pianist and had a keen interest in the arts.
+
+
+Q: What event occurred to Herbert Simon in January 2001?
+A: In January 2001, Herbert Simon underwent surgery to remove a cancerous tumor in his abdomen.
+
+
+Q: What was the outcome of Herbert Simon's surgery in 2001?
+A: Although the surgery was successful, Herbert Simon later died from the complications that followed.
+
+
+Q: What was Herbert Simon's involvement with the Society for General Systems Research?
+A: Herbert Simon was among the first members of the Society for General Systems Research.
+
+
+Q: Which award did Herbert Simon receive in 1978?
+A: Herbert Simon received the Nobel Memorial Prize in Economic Sciences in 1978.
+
+
+Q: What personal belief did Herbert Simon hold during his high school years?
+A: By high school, Herbert Simon was "certain" that he was "religiously an atheist."
+
+Q: Who were the Nobel Prize laureates in Chemistry in 1978?
+A: Peter D. Mitchell (United Kingdom).
+
+
+Q: Which two individuals won the Nobel Peace Prize in 1978?
+A: Anwar Sadat (Egypt) and Menachem Begin (Israel).
+
+
+Q: Who received the Nobel Prize in Literature in 1978?
+A: Isaac Bashevis Singer (Poland/United States).
+
+
+Q: Which award did Herbert A. Simon win in 1978?
+A: Nobel Prize in Economic Sciences.
+
+
+Q: Who were the Nobel Prize laureates in Physiology or Medicine in 1978?
+A: Werner Arber (Switzerland), Daniel Nathans (United States), and Hamilton O. Smith (United States).
+
+
+Q: Who were the recipients of the Sveriges Riksbank Prize in Economic Sciences in 1969?
+A: Ragnar Frisch and Jan Tinbergen.
+
+
+Q: Who received the Sveriges Riksbank Prize in Economic Sciences in 2023?
+A: Claudia Goldin.
+
+
+Q: Which individual was awarded the Turing Award in 1966?
+A: Alan Perlis.
+
+
+Q: Who were the Turing Award laureates in 1983?
+A: Ken Thompson and Dennis Ritchie.
+
+
+Q: Who received the John von Neumann Theory Prize in 1975?
+A: George Dantzig.
+
+
+Q: Who was awarded the John von Neumann Theory Prize in 2023?
+A: Christos Papadimitriou and Mihalis Yannakakis.
+
+
+Q: Who was recognized with the A. M. Turing Award in 2023?
+A: Avi Wigderson.
+
+
+Q: Who received the Nobel Prize in Physics in 1978?
+A: Pyotr Kapitsa (Soviet Union), Arno Allan Penzias (United States), and Robert Woodrow Wilson (United States).
+
+
+Q: Who was awarded the John von Neumann Theory Prize in 1989?
+A: Harry Markowitz.
+
+
+Q: Who were the Nobel Prize laureates in Economic Sciences in 1993?
+A: Robert W. Fogel and Douglass C. North.
+
+Q: Who was Herbert A. Simon?
+A: Herbert A. Simon was an American scholar whose work influenced computer science, economics, and cognitive psychology.
+
+
+Q: What are Herbert A. Simon's most notable theories?
+A: Herbert A. Simon is best known for the theories of "bounded rationality" and "satisficing."
+
+
+Q: Which prestigious awards did Herbert A. Simon receive?
+A: Herbert A. Simon received the Turing Award in 1975 and the Nobel Memorial Prize in Economic Sciences in 1978.
+
+
+Q: At which university did Herbert A. Simon spend most of his career?
+A: Herbert A. Simon spent most of his career at Carnegie Mellon University from 1949 to 2001.
+
+
+Q: What was Herbert A. Simon's primary research interest?
+A: Herbert A. Simon's primary research interest was decision-making within organizations.
+
+
+Q: What interdisciplinary fields did Herbert A. Simon's research span?
+A: Herbert A. Simon's research spanned cognitive science, computer science, public administration, management, and political science.
+
+
+Q: What concept did Herbert A. Simon propose related to power law distributions?
+A: Herbert A. Simon proposed a preferential attachment mechanism to explain power law distributions.
+
+
+Q: Where was Herbert A. Simon born, and when?
+A: Herbert A. Simon was born in Milwaukee, Wisconsin, on June 15, 1916.
+
+
+Q: What was Herbert A. Simon's educational background?
+A: Herbert A. Simon received a B.A. and a Ph.D. in political science from the University of Chicago.
+
+
+Q: Who were some of Herbert A. Simon's doctoral advisors?
+A: Herbert A. Simon's doctoral advisors included Henry Schultz, Rudolf Carnap, and Harold Lasswell.
+
+
+Q: What book did Herbert A. Simon base on his doctoral dissertation?
+A: Herbert A. Simon based his book "Administrative Behavior" on his doctoral dissertation.
+
+
+Q: What role did Herbert A. Simon play in the Marshall Plan?
+A: Herbert A. Simon was part of the administrative team that administered aid to the Marshall Plan for the U.S. government.
+
+
+Q: What was Herbert A. Simon's contribution to economic modeling?
+A: Herbert A. Simon sought to replace the highly simplified classical approach to economic modeling with a more realistic approach considering multiple factors in decision-making.
+
+Q: What is the centerpiece of the book discussed in the text?
+A: The behavioral and cognitive processes of humans making rational decisions.
+
+
+Q: According to Simon, what should an operational administrative decision be?
+A: Correct, efficient, and practical to implement with a set of coordinated means.
+
+
+Q: What did Simon argue about the "homo economicus" model?
+A: That alternatives and consequences may be partly known, and means and ends imperfectly differentiated, incompletely related, or poorly detailed.
+
+
+Q: How did Simon define the task of rational decision making?
+A: Selecting the alternative that results in the more preferred set of all the possible consequences.
+
+
+Q: What are the three required steps in Simon's model of choice?
+A: Identifying and listing all the alternatives, determining all consequences from each alternative, and comparing the accuracy and efficiency of these consequences.
+
+
+Q: What did Simon recognize about human rationality in administrative theory?
+A: That a theory of administration must be based on both economics and psychology due to limits on human rationality.
+
+
+Q: What two universal elements of human social behavior did Simon see as key to creating organizational behavior?
+A: Authority and loyalties/organizational identification.
+
+
+Q: How did Simon define loyalty in an organizational context?
+A: The process whereby the individual substitutes organizational objectives for his own aims as the value-indices which determine his organizational decisions.
+
+
+Q: What was Simon's critique of traditional economics' understanding of decision-making?
+A: That it is too quick to build an idealistic, unrealistic picture of the decision-making process.
+
+
+Q: What contributions did Simon make to artificial intelligence?
+A: He developed the Logic Theory Machine and the General Problem Solver programs with Allen Newell.
+
+
+Q: What did Simon predict about computer chess and machine capabilities?
+A: That computer chess would surpass human abilities within ten years (which took about forty years), and that machines would be capable of doing any work a man can do within twenty years.
+
+
+Q: What concept did Simon introduce that is central to behavioral economics?
+A: Bounded rationality.
+
+
+Q: What award did Simon receive for his work in economics?
+A: The Nobel Prize in 1978.
+
+
+Q: What did Simon believe about practice in education?
+A: That real competence only comes with extensive practice and that it should not be denied to children.
+
+
+Q: How did Simon's work influence John Mighton?
+A: It influenced Mighton's development of a program to improve mathematics performance among students.
+
+Q: In what year did Herbert A. Simon become a fellow of the American Academy of Arts and Sciences?
+A: 1959
+
+
+Q: What prestigious award did Herbert A. Simon receive in 1975?
+A: The ACM's Turing Award
+
+
+Q: For what contribution did Herbert A. Simon receive the Nobel Memorial Prize in Economics in 1978?
+A: For his pioneering research into the decision-making process within economic organizations
+
+
+Q: Which award did Herbert A. Simon receive from the American Psychological Association in 1969?
+A: APA Award for Distinguished Scientific Contributions to Psychology
+
+
+Q: What was the title of Herbert A. Simon's autobiography published in 1991?
+A: Models of My Life
+
+
+Q: How many books did Herbert A. Simon author?
+A: 27 books
+
+
+Q: What is the title of the book Herbert A. Simon co-authored with Allen Newell in 1972?
+A: Human Problem Solving
+
+
+Q: What theorem did Herbert A. Simon discover and prove with David Hawkins?
+A: The Hawkins–Simon theorem on the conditions for the existence of positive solution vectors for input-output matrices
+
+
+Q: What was Herbert A. Simon's role in the Society for General Systems Research?
+A: He was among the first members
+
+
+Q: What was Herbert A. Simon's relationship to music?
+A: He was a pianist and had a keen interest in the arts
+
+
+Q: When did Herbert A. Simon die, and what was the cause?
+A: He died in January 2001 from complications following surgery to remove a cancerous tumor
+
+
+Q: What honorary degree did Herbert A. Simon receive from Harvard University in 1990?
+A: Honorary Doctor of Laws (LL.D.) degree
+
+
+Q: What was Herbert A. Simon's 1947 book on decision-making processes titled?
+A: Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization
+
+
+Q: How many children did Herbert A. Simon have?
+A: Three children
+
+
+Q: What was Herbert A. Simon's interest in outdoor activities?
+A: He was a keen mountain climber
+
+Q: When was Herbert A. Simon awarded the Nobel Memorial Prize in Economics?
+A: 1978.
+
+
+Q: Which publication contains Herbert A. Simon's work "Elements of a Theory of Human Problem Solving"?
+A: Psychological Review, 1958.
+
+
+Q: What is the title of Herbert A. Simon's 1991 work on economic perspectives?
+A: "Organizations and Markets."
+
+
+Q: Which university's library archives the document titled "pr_robert_lepper_artist_teacher.pdf"?
+A: Carnegie Mellon University.
+
+
+Q: In which year did Herbert A. Simon receive the United States National Medal of Science in Behavioral and Social Science?
+A: 1986.
+
+
+Q: Who were the Nobel Laureates in Economic Sciences in 1979?
+A: Theodore W. Schultz and Sir Arthur Lewis.
+
+
+Q: Who is the author of "The Functions of the Executive" published in 1938?
+A: C.I. Barnard.
+
+
+Q: What is the subject of Herbert A. Simon's work "Models of My Life" published in 1991?
+A: It is an autobiographical work.
+
+
+Q: Which economist was awarded the Nobel Memorial Prize in Economics in 1976?
+A: Milton Friedman.
+
+
+Q: What is the title of the work by Herbert A. Simon that discusses rational decision-making in business organizations?
+A: The Nobel Prize lecture, December 8, 1978.
+
+Q: Who won the Nobel Prize in Economic Sciences in 1998?
+A: Amartya Sen
+
+
+Q: Which individuals were awarded the Turing Award in 1975?
+A: Allen Newell and Herbert A. Simon
+
+
+Q: Who received the Nobel Prize in Economic Sciences in 2008?
+A: Paul Krugman
+
+
+Q: Who were the recipients of the Nobel Prize in Economic Sciences in 2019?
+A: Abhijit Banerjee, Esther Duflo, and Michael Kremer
+
+
+Q: Who won the Turing Award in 2016?
+A: Tim Berners-Lee
+
+
+Q: What concept is Herbert A. Simon best known for?
+A: Bounded rationality and satisficing
+
+
+Q: Who were the Nobel Peace Prize laureates in 1978?
+A: Anwar Sadat and Menachem Begin
+
+
+Q: What award did Herbert A. Simon receive in 1978?
+A: Nobel Prize in Economics
+
+
+Q: Which institution did Herbert A. Simon primarily work at during his career?
+A: Carnegie Mellon University
+
+
+Q: Who was awarded the Nobel Prize in Economic Sciences in 2023?
+A: Claudia Goldin
+
+
+Q: What fields did Herbert A. Simon's work influence?
+A: Computer science, economics, and cognitive psychology
+
+
+Q: Who were the recipients of the Turing Award in 2018?
+A: Yoshua Bengio, Geoffrey Hinton, and Yann LeCun
+
+
+Q: When was Herbert A. Simon born?
+A: June 15, 1916
+
+
+Q: Which prize did Herbert A. Simon win in 1988?
+A: Von Neumann Theory Prize
+
+
+Q: Who were the Nobel Prize winners in Physics in 1978?
+A: Pyotr Kapitsa, Arno Allan Penzias, and Robert Woodrow Wilson
+
+Q: Who were some of the notable figures under whom Simon studied?  
+A: Harold Lasswell, Nicolas Rashevsky, Rudolf Carnap, Henry Schultz, and Charles Edward Merriam.
+
+
+Q: What book did Simon co-author with Clarence Ridley in 1938?  
+A: Measuring Municipal Activities: A Survey of Suggested Criteria for Appraising Administration.
+
+
+Q: Where did Simon serve as a research assistant and later become director of an operations research group?  
+A: University of California, Berkeley.
+
+
+Q: What was Simon's role at the Illinois Institute of Technology in Chicago from 1942 to 1949?  
+A: Professor of political science and department chairman.
+
+
+Q: At which university was Simon a faculty member from 1949 to 2001?  
+A: Carnegie-Mellon University.
+
+
+Q: What is the title of Simon's book that is based on his doctoral dissertation and focuses on organizational decision-making?  
+A: Administrative Behavior.
+
+
+Q: What are the three stages in Simon's model of rational decision-making?  
+A: Intelligence, Design, Choice (IDC).
+
+
+Q: What was Simon's contribution to the field of artificial intelligence with Allen Newell?  
+A: Development of the Logic Theory Machine and the General Problem Solver (GPS).
+
+
+Q: What did Simon predict about computer chess in 1957?  
+A: That computer chess would surpass human chess abilities within ten years.
+
+
+Q: What concept is Simon credited with introducing that challenges traditional economic decision-making models?  
+A: Bounded Rationality.
+
+
+Q: What prestigious award did Simon receive in 1978 for his work in economics?  
+A: The Nobel Prize.
+
+
+Q: What theory did Simon develop with Edward Feigenbaum related to learning?  
+A: EPAM (Elementary Perceiver and Memorizer) theory.
+
+
+Q: What is the term Simon used to describe rational choices that take into account cognitive limitations?  
+A: Bounded Rationality.
+
+Q: What is the "procedural" definition of rationality in econometric analyses of health data?
+A: It involves using "auxiliary assumptions" that reflect knowledge from relevant biomedical fields to guide the specification of econometric models for health outcomes.
+
+
+Q: What did Herbert Simon determine about the internal organization of firms and business decisions?
+A: He found that they did not conform to the neoclassical theories of "rational" decision-making.
+
+
+Q: What is bounded rationality according to Herbert Simon?
+A: It is a theory that relaxes one or more assumptions of standard expected utility theory.
+
+
+Q: What was one of Simon's main interests in computer science?
+A: He was interested in artificial intelligence, human–computer interaction, and the social implications of computer technology.
+
+
+Q: What economic idea did Simon maintain throughout his life, particularly in 1979?
+A: He argued for a land value tax to replace taxes on wages, based on the idea of Georgism or "single tax."
+
+
+Q: How did Simon's work influence John Mighton?
+A: Simon's research countered the argument that excessive practice hampers children's understanding, influencing Mighton's program to improve math performance in students.
+
+
+Q: What prestigious awards did Herbert Simon receive?
+A: He received the Nobel Memorial Prize in Economics, the ACM Turing Award, and the National Medal of Science, among others.
+
+
+Q: How prolific was Herbert Simon as a writer?
+A: He authored 27 books and almost a thousand papers, making him one of the most influential social scientists of the twentieth century.
+
+
+Q: What was the focus of Simon's 1947 book "Administrative Behavior"?
+A: It studied decision-making processes in administrative organizations.
+
+
+Q: What theorem did Simon and David Hawkins discover?
+A: The Hawkins-Simon theorem on the conditions for the existence of positive solution vectors for input-output matrices.
+
+
+Q: What personal interests did Herbert Simon have outside of his professional work?
+A: He was a pianist, a keen mountain climber, and had an interest in the arts.
+
+
+Q: What was the outcome of Simon's surgery in 2001?
+A: Although the surgery to remove a cancerous tumor was successful, he later died from complications.
+
+Q: Who predicted that machines would be capable of doing any work that a man can do within twenty years?
+A: Herbert A. Simon
+
+
+Q: What was the title of the 1963 working paper by Herbert A. Simon?
+A: "A Theory of Emotional Behavior"
+
+
+Q: In which journal was Herbert A. Simon's 1967 article "Motivational and Emotional Controls of Cognition" published?
+A: Psychological Review
+
+
+Q: Who co-authored the book "Human Problem Solving" with Herbert A. Simon in 1972?
+A: Allen Newell
+
+
+Q: What is the title of the 1993 book by K. A. Ericsson and H. A. Simon?
+A: "Protocol Analysis: Verbal Reports as Data"
+
+
+Q: Which volume of "Cognitive Psychology" includes the article "Perception in Chess" by Chase and Simon?
+A: Volume 4, 1973
+
+
+Q: What is the focus of the 1984 article by Feigenbaum and Simon in "Cognitive Science"?
+A: EPAM-like Models of Recognition and Learning
+
+
+Q: What is the topic of the 2000 article by Gobet and Simon in "Cognitive Science"?
+A: Presentation Time in Expert Memory
+
+
+Q: For what contribution was Herbert A. Simon awarded the Nobel Memorial Prize in Economics in 1978?
+A: Studies of decision-making
+
+
+Q: What concept is discussed in Herbert A. Simon's 1990 work included in "Utility and Probability"?
+A: Bounded Rationality
+
+
+Q: What is the title of Herbert A. Simon's 1976 book?
+A: "Administrative Behavior"
+
+
+Q: Which award did Herbert A. Simon receive in 1986?
+A: United States National Medal of Science
+
+
+Q: What is the title of Herbert A. Simon's 1991 article in the Journal of Economic Perspectives?
+A: "Organizations and Markets"
+
+Q: Who were the laureates of the Sveriges Riksbank Prize in Economic Sciences in 1969?
+A: Ragnar Frisch and Jan Tinbergen.
+
+
+Q: Which Nobel Prize did Herbert A. Simon receive in 1978?
+A: Nobel Prize in Economics.
+
+
+Q: Who won the Turing Award in 1966?
+A: Alan Perlis.
+
+
+Q: Who were the recipients of the Nobel Peace Prize in 1978?
+A: Anwar Sadat and Menachem Begin.
+
+
+Q: Who was awarded the National Medal of Science in 1986?
+A: Herbert A. Simon.
+
+
+Q: Which two individuals shared the Sveriges Riksbank Prize in Economic Sciences in 1974?
+A: Gunnar Myrdal and Friedrich August von Hayek.
+
+
+Q: Who were the 1978 Nobel Prize winners in Physiology or Medicine?
+A: Werner Arber, Daniel Nathans, and Hamilton O. Smith.
+
+
+Q: In what year did Richard H. Thaler win the Sveriges Riksbank Prize in Economic Sciences?
+A: 2017.
+
+
+Q: Who received the Nobel Prize in Literature in 1978?
+A: Isaac Bashevis Singer.
+
+
+Q: Who was awarded the Turing Award in 1975?
+A: Allen Newell and Herbert A. Simon.
+
+
+Q: Which laureate won the Nobel Prize in Physics in 1978?
+A: Pyotr Kapitsa, Arno Allan Penzias, and Robert Woodrow Wilson.
+
+
+Q: Who was awarded the Von Neumann Theory Prize in 1988?
+A: Herbert A. Simon.
+
+
+Q: Who shared the 1979 Sveriges Riksbank Prize in Economic Sciences?
+A: Theodore W. Schultz and Sir Arthur Lewis.
+
+
+Q: Who were the recipients of the Nobel Prize in Chemistry in 1978?
+A: Peter D. Mitchell.
+
+Q: What are Herbert Simon's most notable theories in decision-making?
+A: Herbert Simon is best known for the theories of "bounded rationality" and "satisficing."
+
+
+Q: Which prestigious awards did Herbert Simon receive?
+A: Herbert Simon received the Turing Award in 1975 and the Nobel Memorial Prize in Economic Sciences in 1978.
+
+
+Q: At which university did Herbert Simon spend most of his career?
+A: Herbert Simon spent most of his career at Carnegie Mellon University from 1949 to 2001.
+
+
+Q: What fields did Herbert Simon's research span?
+A: Herbert Simon's research spanned cognitive science, computer science, public administration, management, and political science.
+
+
+Q: What role did Herbert Simon play in the development of artificial intelligence?
+A: Herbert Simon was a pioneer in artificial intelligence, creating the Logic Theory Machine and the General Problem Solver with Allen Newell.
+
+
+Q: What was Herbert Simon's contribution to economic modeling?
+A: Herbert Simon sought to replace the simplified classical approach to economic modeling with a theory that recognized multiple factors in decision-making.
+
+
+Q: What was the focus of Herbert Simon's book "Administrative Behavior"?
+A: "Administrative Behavior" focused on the behavioral and cognitive processes of humans making rational decisions.
+
+
+Q: How did Herbert Simon define the task of rational decision making?
+A: Herbert Simon defined it as selecting the alternative that results in the more preferred set of all possible consequences.
+
+
+Q: What was Herbert Simon's view on human rationality in decision-making?
+A: Herbert Simon argued that complete knowledge of all alternatives and consequences is impossible, thus decision-making is limited by human rationality.
+
+
+Q: What prediction did Herbert Simon make about computer chess?
+A: Herbert Simon predicted in 1957 that computer chess would surpass human abilities within ten years, although it took about forty years.
+
+
+Q: What did Herbert Simon's work on emotional cognition address?
+A: Herbert Simon's work on emotional cognition addressed the capability of machines to replicate "hot cognition" behaviors, such as emotions.
+
+
+Q: With whom did Herbert Simon collaborate on organization theory?
+A: Herbert Simon collaborated with James G. March on several works in organization theory.
+
+
+Q: What did Herbert Simon estimate about gaining expertise?
+A: Herbert Simon estimated that becoming an expert on a topic required about ten years of experience.
+
+Q: How many chunks of information was a chess expert said to have learned?
+A: 50,000 chunks of information.
+
+
+Q: In what year did Herbert Simon receive the ACM Turing Award, and with whom did he share it?
+A: Herbert Simon received the ACM Turing Award in 1975, shared with Allen Newell.
+
+
+Q: What theory did Herbert Simon develop with Edward Feigenbaum?
+A: Herbert Simon and Edward Feigenbaum developed the EPAM (Elementary Perceiver and Memorizer) theory.
+
+
+Q: What is the CHREST computational model primarily used to simulate?
+A: The CHREST computational model is primarily used to simulate aspects of chess expertise.
+
+
+Q: For what concept in microeconomics is Herbert Simon credited?
+A: Herbert Simon is credited for the concept of organizational decision-making.
+
+
+Q: What prestigious award did Herbert Simon receive in 1978, and for what contribution?
+A: Herbert Simon received the Nobel Prize in 1978 for his pioneering research into the decision-making process within economic organizations.
+
+
+Q: What concept did Herbert Simon introduce that is central to behavioral economics?
+A: Herbert Simon introduced the concept of "bounded rationality."
+
+
+Q: What was Herbert Simon's main contribution at the Cowles Commission?
+A: Herbert Simon's main contribution at the Cowles Commission was linking economic theory to mathematics and statistics.
+
+
+Q: What did Herbert Simon argue about the role of practice in education?
+A: Herbert Simon argued that real competence only comes with extensive practice, countering the criticism of practice as "drill and kill."
+
+
+Q: How many books and papers did Herbert Simon author, making him one of the most influential social scientists?
+A: Herbert Simon authored 27 books and almost a thousand papers.
+
+
+Q: What was Herbert Simon's first book, and when was it published?
+A: Herbert Simon's first book was "Administrative Behavior," published in 1947.
+
+
+Q: What is the title of Herbert Simon's autobiography?
+A: The title of Herbert Simon's autobiography is "Models of My Life."
+
+
+Q: What theorem did Herbert Simon discover with David Hawkins?
+A: Herbert Simon discovered the Hawkins–Simon theorem on the conditions for the existence of positive solution vectors for input-output matrices.
+
+
+Q: What was one of Herbert Simon's personal interests outside of his professional work?
+A: Herbert Simon had a keen interest in the arts and was a pianist.
+
+
+Q: When did Herbert Simon pass away, and what was the cause?
+A: Herbert Simon passed away in January 2001 due to complications following surgery to remove a cancerous tumor.
+
+Q: Who was Herbert A. Simon?
+A: Herbert A. Simon was a notable figure recognized for his studies and models of decision-making, and he was an A.M. Turing Award laureate and a Nobel Prize winner in Economic Sciences in 1978.
+
+
+Q: What are the main themes of Herbert A. Simon's contributions?
+A: The main themes of Herbert A. Simon's contributions are studies and models of decision-making.
+
+
+Q: What prestigious award did Herbert A. Simon receive in 1978?
+A: Herbert A. Simon received the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel in 1978.
+
+
+Q: In what field did Herbert A. Simon make significant contributions?
+A: Herbert A. Simon made significant contributions in the field of economics, particularly in decision-making processes.
+
+
+Q: What was Herbert A. Simon's religious belief during his high school years?
+A: During his high school years, Herbert A. Simon was "certain" that he was "religiously an atheist."
+
+
+Q: Which book by Herbert A. Simon discusses decision-making processes in administrative organizations?
+A: The book "Administrative Behavior" by Herbert A. Simon discusses decision-making processes in administrative organizations.
+
+
+Q: What was Herbert A. Simon's stance on land and wage taxes according to a letter he wrote to the Pittsburgh City Council?
+A: Herbert A. Simon stated that it is preferable to impose additional costs on land by increasing the land tax rather than increasing the wage tax.
+
+
+Q: Which academic institutions recognized Herbert A. Simon with honorary degrees?
+A: Herbert A. Simon received honorary degrees from institutions like Lund School of Economics and Management and the University of Pavia.
+
+
+Q: Which professional societies was Herbert A. Simon a member of?
+A: Herbert A. Simon was a member of the American Academy of Arts and Sciences and the National Academy of Sciences.
+
+Q: When was Herbert A. Simon's work "Elements of a Theory of Human Problem Solving" published?
+A: 1958
+
+
+Q: Which journal published Herbert A. Simon's work on "Elements of a Theory of Human Problem Solving"?
+A: Psychological Review
+
+
+Q: What is the title of Herbert A. Simon's autobiography included in Nobel Lectures?
+A: "Autobiography"
+
+
+Q: In which year did Herbert A. Simon receive the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel?
+A: 1978
+
+
+Q: Who co-authored the work "Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization" with Herbert A. Simon?
+A: C. Barnard
+
+
+Q: What was Herbert A. Simon's belief regarding religion during his high school years?
+A: He was "religiously an atheist."
+
+
+Q: Which award did Herbert A. Simon receive for his contributions to computer science?
+A: A.M. Turing Award
+
+
+Q: What is the main theme that unifies most of Herbert A. Simon's contributions according to Edward Feigenbaum?
+A: Studies and models of decision-making
+
+
+Q: What concept did Herbert A. Simon explore in his work "Bounded Rationality"?
+A: Rationality within limits or constraints
+
+
+Q: Which university's library archives Herbert A. Simon's collected papers?
+A: Carnegie Mellon University
+
+
+Q: What is the title of the 1972 book co-authored by Allen Newell and Herbert A. Simon?
+A: "Human Problem Solving"
+
+
+Q: What did Herbert A. Simon advocate for in a letter to the Pittsburgh City Council regarding taxation?
+A: Increasing the land tax instead of the wage tax
+
+
+Q: In which publication did Herbert A. Simon discuss "Motivational and Emotional Controls of Cognition"?
+A: Psychological Review
+
+
+Q: What is the focus of the book "Protocol Analysis: Verbal Reports as Data" co-authored by Herbert A. Simon?
+A: Analyzing verbal reports as data
+
+
+Q: Which concept did Herbert A. Simon and Florian M. Artinger discuss in their 2022 publication?
+A: Satisficing
+
+
+Q: What is the title of Herbert A. Simon's 1947 work on decision-making processes in organizations?
+A: "Administrative Behavior"
+
+Q: When was the information about the National Academy of Sciences retrieved from nas.nasonline.org?
+A: September 23, 2013.
+
+
+Q: When was the information about honorary doctors at Lund School of Economics and Management retrieved?
+A: September 4, 2014.
+
+
+Q: Who received an honorary degree from the University of Pavia according to an interview on news.cornell.edu?
+A: Ted Lowi.
+
+
+Q: When was Craig R. Whitney's article "Kohl, at Harvard, reaffirms border" retrieved from The New York Times?
+A: February 14, 2024.
+
+
+Q: When was the Facultad de Ciencias Económicas, Universidad de Buenos Aires bulletin archived?
+A: March 12, 2016.
+
+
+Q: What is the title of the work by Newell, Shaw, and Simon published in the Psychological Review in 1958?
+A: "Elements of a Theory of Human Problem Solving."
+
+
+Q: When was the document "pr_robert_lepper_artist_teacher.pdf" archived?
+A: June 26, 2006.
+
+
+Q: When was Herbert A. Simon's information archived according to the text?
+A: January 17, 2017.
+
+
+Q: What is the title of Herbert Simon's book published in 1991?
+A: "Models of My Life."
+
+
+Q: What did Herbert Simon receive in 1986?
+A: The United States National Medal of Science in Behavioral and Social Science.
+
+
+Q: Who are some of the editors of the book "Minds, Models and Milieux" commemorating Herbert Simon?
+A: R. Frantz and L. Marsh.
+
+
+Q: What is the title of Herbert Simon's paper published in the Proceedings of the American Philosophical Society in 1962?
+A: "The Architecture of Complexity."
+
+Q: Who were the recipients of the United States National Medal of Science in the physical sciences category in 1975?
+A: Joseph O. Hirschfelder, Lewis Sarett, Edgar Bright Wilson, and Chien-Shiung Wu.
+
+
+Q: Which laureates received the Sveriges Riksbank Prize in Economic Sciences in 1970?
+A: Paul A. Samuelson.
+
+
+Q: Who was awarded the United States National Medal of Science in the biological sciences category in 2008?
+A: Francis S. Collins, Elaine Fuchs, and J. Craig Venter.
+
+
+Q: Who received the United States National Medal of Science in the mathematical, statistical, and computer sciences category in 1996?
+A: Richard Karp and Stephen Smale.
+
+
+Q: Which individuals were awarded the United States National Medal of Science in chemistry in 1983?
+A: Roald Hoffmann, George C. Pimentel, and Richard N. Zare.
+
+
+Q: Who were the recipients of the United States National Medal of Science in engineering sciences in 1987?
+A: Robert Byron Bird, H. Bolton Seed, and Ernst Weber.
+
+
+Q: Who won the Sveriges Riksbank Prize in Economic Sciences in 1986?
+A: James M. Buchanan Jr.
+
+
+Q: Who were the recipients of the United States National Medal of Science in behavioral and social science in 2023?
+A: Huda Akil and Shelley E. Taylor.
+
+
+Q: Who received the United States National Medal of Science in the physical sciences category in 2023?
+A: Barry Barish and Myriam Sarachik.
+
+
+Q: Who were the laureates of the Sveriges Riksbank Prize in Economic Sciences in 2023?
+A: Claudia Goldin.
+
+Q: Who won the Nobel Prize in Economic Sciences in 1980?
+A: Lawrence R. Klein
+
+
+Q: Which individuals received the Nobel Prize in Economic Sciences in 1990?
+A: Harry M. Markowitz, Merton H. Miller, and William F. Sharpe
+
+
+Q: Who was awarded the Nobel Prize in Economic Sciences in 1998?
+A: Amartya Sen
+
+
+Q: Who won the Nobel Prize in Economic Sciences in 2009?
+A: Elinor Ostrom and Oliver E. Williamson
+
+
+Q: Who were the recipients of the Nobel Prize in Economic Sciences in 2019?
+A: Abhijit Banerjee, Esther Duflo, and Michael Kremer
+
+
+Q: Who received the Nobel Prize in Economic Sciences in 2023?
+A: Claudia Goldin
+
+
+Q: Who were the 1978 Nobel Prize laureates in Chemistry?
+A: Peter D. Mitchell (United Kingdom)
+
+
+Q: Who won the 1978 Nobel Prize in Literature?
+A: Isaac Bashevis Singer (Poland/United States)
+
+
+Q: Who were awarded the 1978 Nobel Peace Prize?
+A: Anwar Sadat (Egypt) and Menachem Begin (Israel)
+
+
+Q: Who were the 1978 Nobel Prize laureates in Physiology or Medicine?
+A: Werner Arber (Switzerland), Daniel Nathans (United States), and Hamilton O. Smith (United States)
+
+
+Q: Who received the A. M. Turing Award in 1966?
+A: Alan Perlis
+
+
+Q: Who were the recipients of the A. M. Turing Award in 1975?
+A: Allen Newell and Herbert A. Simon
+
+
+Q: Who was awarded the John von Neumann Theory Prize in 1975?
+A: George Dantzig
+
+
+Q: Who received the John von Neumann Theory Prize in 1988?
+A: Herbert A. Simon
+
+
+Q: Who were the 2023 recipients of the John von Neumann Theory Prize?
+A: Christos Papadimitriou and Mihalis Yannakakis
+
+Q: Who was awarded in 1998?
+A: Fred W. Glover
+
+
+Q: Which economist is associated with the concept of "bounded rationality"?
+A: Herbert A. Simon
+
+
+Q: Name a key concept related to market competition mentioned in the text.
+A: Barriers to entry
+
+
+Q: Who are two recipients of the award in 2000?
+A: Ellis L. Johnson and Manfred W. Padberg
+
+
+Q: What is a concept related to consumer behavior mentioned in the text?
+A: Conspicuous consumption
+
+
+Q: Name a behavioral economist listed in the text.
+A: Daniel Kahneman
+
+
+Q: What is the "Herfindahl index" used to measure?
+A: Market concentration
+
+
+Q: Who is a new institutional economist mentioned in the text?
+A: Daron Acemoglu
+
+
+Q: What is the "accelerator effect" related to?
+A: Economics
+
+
+Q: Name a psychologist known for his work in behavioral genetics.
+A: Richard E. Nisbett
+
+Q: Who are some notable psychologists mentioned in the text?
+A: Wilhelm Wundt, William James, Ivan Pavlov, Sigmund Freud, Carl Jung, Jean Piaget, B.F. Skinner, and Albert Bandura.
+
+
+Q: What are some of the disciplines and topics related to psychology listed in the text?
+A: Religion psychometrics, terror management theory, behavioral genetics, behavioral neuroscience, cognition, competence, consciousness, consumer behavior, emotions, feelings, human factors and ergonomics, intelligence, mind, psychology of religion.
+
+
+Q: Which Nobel laureate in economics is mentioned in the text?
+A: Herbert A. Simon.
+
+
+Q: What are some of the professional affiliations and achievements of Herbert A. Simon mentioned in the text?
+A: Fellow of the American Academy of Arts and Sciences, fellow of the Association for Computing Machinery, John von Neumann Theory Prize winner, Turing Award laureate, National Medal of Science laureate, member of the United States National Academy of Sciences.
+
+
+Q: What is the connection between Herbert A. Simon and Carnegie Mellon University?
+A: Herbert A. Simon was part of the Carnegie Mellon University faculty.
+
+
+Q: What are some of the errors and maintenance categories mentioned in the text?
+A: CS1 errors: missing title, CS1 errors: bare URL, CS1 maint: location, CS1 maint: DOI inactive as of December 2024, CS1 maint: bot: original URL status unknown.
+
+
+Q: What is Herbert A. Simon recognized for in the field of psychology?
+A: He is recognized as an American cognitive psychologist and computational psychologist.
+
+
+Q: What is a significant award Herbert A. Simon received related to psychology?
+A: APA Distinguished Scientific Award for an Early Career Contribution to Psychology.
+
+
+Q: What are some of the countries mentioned in connection with authority control databases?
+A: Germany, United States, France, Japan, Italy, Czech Republic, Spain, Portugal, Netherlands, Norway, Latvia, Croatia, Greece, Korea, Sweden, Poland, Vatican, Israel, Catalonia, Belgium.
+
+
+Q: What is Herbert A. Simon's association with the University of Chicago?
+A: He is an alumnus of the University of Chicago.

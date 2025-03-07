@@ -1,0 +1,561 @@
+Q: When was the School of Computer Science (SCS) at Carnegie Mellon University established?
+A: 1988
+
+
+Q: Which universities are tied with Carnegie Mellon University for the No. 1 graduate program in computer science according to the 2024 U.S. News & World Report?
+A: Massachusetts Institute of Technology, Stanford University, and University of California, Berkeley
+
+
+Q: What is the Gates-Hillman Complex known for at Carnegie Mellon University?
+A: It is home to Carnegie Mellon University's School of Computer Science.
+
+
+Q: Who were the key figures in creating the computer science department at Carnegie Mellon University in 1965?
+A: Allen Newell, Herbert A. Simon, and Alan J. Perlis
+
+
+Q: What was the original mission statement for the computer science department at Carnegie Mellon University?
+A: "To cultivate a course of study leading to the PhD degree in computer science, a program that would exploit the new technology and assist in establishing a discipline of computer science."
+
+
+Q: What are some of the research areas in which Carnegie Mellon School of Computer Science has made fundamental contributions?
+A: Algorithms, artificial intelligence, computer networks, distributed systems, parallel processing, programming languages, computational biology, robotics, language technologies, human–computer interaction, and software engineering.
+
+
+Q: What is the "do or die" program referred to in the text?
+A: The PhD program in the computer science department during the 1970s at Carnegie Mellon University, which required a minimum of six years of residency and did not offer a master's degree as an intermediate step.
+
+
+Q: What is the significance of the Randy Pausch Memorial Bridge?
+A: It connects the Gates Center for Computer Science to the Purnell Center and represents Professor Pausch's devotion to linking computer science and entertainment.
+
+
+Q: What is Tartan Racing, and what did they achieve in 2007?
+A: A collaboration between Carnegie Mellon and General Motors Corporation that won the DARPA Urban Challenge with their autonomous vehicle, Boss.
+
+
+Q: Who is credited with inventing the smiley face emoticon and when?
+A: Scott Fahlman in 1982
+
+
+Q: What are some of the honors and awards established by the School of Computer Science at Carnegie Mellon University?
+A: Finmeccanica Chair, A. Nico Habermann Chair, Allen Newell Award for Research Excellence, Herbert A. Simon Award for Teaching Excellence in Computer Science, and the Robert Doherty Prize for Excellence in Education.
+
+
+Q: How many faculty and alumni from Carnegie Mellon's School of Computer Science have won the A.M. Turing Award?
+A: Thirteen
+
+
+Q: Which notable faculty member gave "The Last Lecture" and was a co-founder of the Entertainment Technology Center at Carnegie Mellon?
+A: Randy Pausch
+
+
+Q: What is the focus of research for Manuela M. Veloso at Carnegie Mellon University?
+A: Creating teams of intelligent agents in complex, dynamic, and uncertain environments, such as robot soccer.
+
+Q: When was the School of Computer Science at Carnegie Mellon University established?
+A: The School of Computer Science at Carnegie Mellon University was established in 1988.
+
+
+Q: Which universities are tied with Carnegie Mellon University for the No. 1 graduate program in computer science according to the 2024 U.S. News & World Report?
+A: Massachusetts Institute of Technology, Stanford University, and University of California, Berkeley.
+
+
+Q: What is the Gates-Hillman Complex at Carnegie Mellon University?
+A: The Gates-Hillman Complex is home to Carnegie Mellon University's School of Computer Science.
+
+
+Q: Who is credited with inventing the smiley face emoticon?
+A: Scott Fahlman is credited with inventing the smiley face emoticon.
+
+
+Q: What was the mission statement of the original Computer Science Department at Carnegie Mellon?
+A: The mission was "to cultivate a course of study leading to the PhD degree in computer science, a program that would exploit the new technology and assist in establishing a discipline of computer science."
+
+
+Q: What is Tartan Racing known for?
+A: Tartan Racing is known for winning the 2007 DARPA Urban Challenge with their autonomous vehicle "Boss."
+
+
+Q: What is the significance of the Randy Pausch Memorial Bridge?
+A: The Randy Pausch Memorial Bridge connects the Gates Center for Computer Science to the Purnell Center and represents Pausch's devotion to linking computer science and entertainment.
+
+
+Q: What are some research areas that the School of Computer Science at Carnegie Mellon University has contributed to?
+A: Algorithms, artificial intelligence, computer networks, distributed systems, parallel processing, programming languages, computational biology, robotics, language technologies, human-computer interaction, and software engineering.
+
+
+Q: Who led the Tartan Racing team to victory in the 2007 DARPA Grand Challenge?
+A: William L. "Red" Whittaker led the Tartan Racing team.
+
+
+Q: How many SCS faculty and alumni have won the A.M. Turing Award?
+A: Thirteen SCS faculty and alumni have won the A.M. Turing Award.
+
+
+Q: What is SCS Day at Carnegie Mellon University?
+A: SCS Day is a yearly celebration of computer science featuring activities, exhibits, workshops, games, and a talent show.
+
+
+Q: Who is Randy Pausch and what is he known for?
+A: Randy Pausch was a professor of computer science, known for "The Last Lecture" and co-founding Carnegie Mellon's Entertainment Technology Center.
+
+
+Q: What is the Mobot Races tradition at Carnegie Mellon University?
+A: The Mobot Races are a competition of mobile robots following a slalom course, held during the spring carnival celebration.
+
+Q: Who is Hans Moravec and what is his research focus?
+A: Hans Moravec is a research professor at the Robotics Institute with interests in mobile robots and artificial intelligence.
+
+
+Q: What is Moravec's Paradox?
+A: Moravec's Paradox, developed in the 1980s, states that it is more difficult for computers to learn basic human instincts than human reason.
+
+
+Q: Who is Manuela M. Veloso and what are her roles?
+A: Manuela M. Veloso is the Herbert A. Simon Professor at the School of Computer Science, Carnegie Mellon University, president of the International RoboCup Federation, and president-elect of the Association for the Advancement of Artificial Intelligence.
+
+
+Q: What is Manuela M. Veloso's research focus?
+A: Her research focuses on creating teams of intelligent agents in complex, dynamic, and uncertain environments, such as robot soccer.
+
+
+Q: Who is Manuel Blum and what is he known for?
+A: Manuel Blum is the Bruce Nelson Professor of Computer Science and a Turing Award winner.
+
+
+Q: What notable contribution has Alexander Waibel made in machine learning?
+A: Alexander Waibel is known for the time delay neural network, the first convolutional neural network trained by gradient descent using backpropagation.
+
+
+Q: What award did Alexander Waibel receive for his work?
+A: Alexander Waibel received the IEEE James L. Flanagan Speech and Audio Processing Award and the ACM ICMI Sustained Achievement Award.
+
+
+Q: What is the Gates-Hillman Complex?
+A: The Gates-Hillman Complex is a facility at Carnegie Mellon University that houses the School of Computer Science, opened in 2009 with 217,000 square feet of space.
+
+
+Q: What are the Carnegie Mellon Mobot Races?
+A: The Mobot Races are a yearly event hosted by the School of Computer Science during the Spring Carnival, featuring mobile robots following a slalom course.
+
+
+Q: What is SCS Day at Carnegie Mellon University?
+A: SCS Day is a yearly celebration of computer science featuring activities, exhibits, workshops, games, and a talent show, started in 2003.
+
+
+Q: Who is credited with inventing the smiley face emoticon?
+A: Scott Fahlman, a research professor at Carnegie Mellon University, is credited with inventing the smiley face emoticon in 1982.
+
+
+Q: What is Tartan Racing and what did they achieve?
+A: Tartan Racing is a collaboration between Carnegie Mellon and General Motors that won the 2007 DARPA Urban Challenge with an autonomous vehicle named Boss.
+
+Q: What was the average speed of Boss during the 55-mile trip?
+A: About 14 miles (23 km) an hour.
+
+
+Q: By how much time did Boss beat the second-place team, Stanford Racing?
+A: Just under 20 minutes.
+
+
+Q: What prestigious award have thirteen SCS faculty and alumni won?
+A: The A. M. Turing Award.
+
+
+Q: Who are some of the notable recipients of the A. M. Turing Award mentioned in the text?
+A: Raj Reddy, Manuel Blum, and Edmund M. Clarke.
+
+
+Q: What was Randy Pausch known for at Carnegie Mellon?
+A: He was a professor of computer science, gave "The Last Lecture," and co-founded Carnegie Mellon's Entertainment Technology Center.
+
+
+Q: When did Randy Pausch pass away?
+A: July 25, 2008.
+
+
+Q: What award did Mary Shaw receive on November 21, 2014?
+A: The National Medal of Technology and Innovation.
+
+
+Q: What is Luis von Ahn known for creating?
+A: Games with a Purpose, reCAPTCHA, and Duolingo.
+
+
+Q: What was William L. "Red" Whittaker's role in the 2007 DARPA Grand Challenge?
+A: He led the Tartan Racing team to victory.
+
+
+Q: What are some of Raj Reddy's notable achievements and awards?
+A: ACM Turing Award (1994), French Legion of Honour (1984), Padma Bhushan Award (2001), Honda Prize (2005), and Vannevar Bush Award (2006).
+
+
+Q: What is Takeo Kanade's main area of interest?
+A: Computer vision, multi-media, manipulators, autonomous mobile robots, and sensors.
+
+
+Q: What is Hans Moravec known for in the field of robotics?
+A: His work on mobile robots and developing Moravec's Paradox.
+
+
+Q: What is Manuela M. Veloso's research focus?
+A: Creating teams of intelligent agents in complex, dynamic, and uncertain environments.
+
+
+Q: When was the School of Computer Science at Carnegie Mellon established?
+A: In 1988.
+
+
+Q: How is Carnegie Mellon's School of Computer Science ranked in the 2024 U.S. News & World Report?
+A: Tied for No. 1 with MIT, Stanford University, and University of California, Berkeley.
+
+
+Q: What are some fields in which Carnegie Mellon School of Computer Science researchers have made contributions?
+A: Algorithms, artificial intelligence, computer networks, distributed systems, parallel processing, programming languages, computational biology, robotics, language technologies, human–computer interaction, and software engineering.
+
+Q: What is the minimum residency requirement for the PhD program mentioned in the text?
+A: Six years.
+
+
+Q: What nickname was given to the PhD program by graduate students?
+A: The "do or die" program.
+
+
+Q: Which department focuses on software systems and includes topics like economics and public policy?
+A: Software and Societal Systems Department (S3D).
+
+
+Q: What is the relationship between the Software and Societal Systems Department (S3D) and the Software Engineering Institute (SEI)?
+A: S3D is distinct from SEI; SEI is sponsored by the U.S. Department of Defense and does not offer educational programs.
+
+
+Q: What is the purpose of the Randy Pausch Memorial Bridge?
+A: It links the Gates Center for Computer Science to the Purnell Center, representing Professor Pausch's devotion to linking computer science and entertainment.
+
+
+Q: What recognition have the Gates and Hillman Centers received for their design?
+A: LEED Gold certification.
+
+
+Q: Who is credited with inventing the smiley face emoticon?
+A: SCS Research Professor Scott Fahlman.
+
+
+Q: What competition did Tartan Racing win in 2007?
+A: The DARPA Urban Challenge.
+
+
+Q: What is the significance of the "Boss" vehicle in the DARPA Urban Challenge?
+A: It was Tartan Racing's vehicle that won the challenge, a reworked 2007 Chevy Tahoe.
+
+
+Q: Which award is known as the "Nobel Prize of Computing"?
+A: The A. M. Turing Award.
+
+
+Q: What is the Mobot Races tradition at Carnegie Mellon?
+A: A competition where mobile robots follow a slalom course during the Spring Carnival.
+
+
+Q: Who was a professor known for the "Last Lecture" and co-founded the Entertainment Technology Center?
+A: Randy Pausch.
+
+
+Q: What notable award did Mary Shaw receive in 2014?
+A: The National Medal of Technology and Innovation.
+
+
+Q: Who led Tartan Racing to victory in the 2007 DARPA Grand Challenge?
+A: William L. "Red" Whittaker.
+
+
+Q: What notable achievement is associated with Raj Reddy?
+A: He received the ACM Turing Award in 1994.
+
+
+Q: What is the focus of Manuela M. Veloso's research?
+A: Creating teams of intelligent agents in complex, dynamic, and uncertain environments.
+
+Q: When was the School of Computer Science at Carnegie Mellon University established?
+A: The School of Computer Science at Carnegie Mellon University was established in 1988.
+
+
+Q: Which universities are tied with Carnegie Mellon University's School of Computer Science for the No. 1 ranking in the 2024 U.S. News & World Report?
+A: Massachusetts Institute of Technology, Stanford University, and University of California, Berkeley.
+
+
+Q: What are some of the research contributions made by Carnegie Mellon's School of Computer Science?
+A: Contributions have been made in algorithms, artificial intelligence, computer networks, distributed systems, parallel processing, programming languages, computational biology, robotics, language technologies, human–computer interaction, and software engineering.
+
+
+Q: Who were the founders of the Computer Science Department at Carnegie Mellon University in 1965?
+A: Allen Newell, Herbert A. Simon, and Alan J. Perlis.
+
+
+Q: What is the Gates-Hillman Complex?
+A: It is the home to Carnegie Mellon University's School of Computer Science, opened in 2009, and includes various offices, labs, and classrooms.
+
+
+Q: What is the Randy Pausch Memorial Bridge?
+A: A footbridge connecting the Gates Center to the Purnell Center, named after Professor Randy Pausch, known for his work in computer science and entertainment.
+
+
+Q: What is the significance of the Smiley Face Emoticon in relation to Carnegie Mellon University?
+A: Scott Fahlman, a research professor at Carnegie Mellon, is credited with inventing the smiley face emoticon in 1982.
+
+
+Q: What is Tartan Racing?
+A: A collaboration between Carnegie Mellon and General Motors that won the 2007 DARPA Urban Challenge with an autonomous vehicle named Boss.
+
+
+Q: What are the Mobot Races?
+A: An annual event hosted by the School of Computer Science at Carnegie Mellon during the spring carnival, featuring mobile robots navigating a slalom course.
+
+
+Q: Who is Randy Pausch and what is he known for?
+A: Randy Pausch was a professor of computer science at Carnegie Mellon, known for his "Last Lecture" and contributions to the development of the Alice project.
+
+
+Q: What awards have faculty members from the School of Computer Science at Carnegie Mellon received?
+A: Faculty members have received the A.M. Turing Award, memberships and fellowships in the National Academy of Sciences, National Academy of Engineering, and other prestigious recognitions.
+
+
+Q: Who is Luis von Ahn and what is he known for?
+A: Luis von Ahn is a consulting professor at Carnegie Mellon, known for creating reCAPTCHA and Duolingo, and was named a MacArthur Fellow in 2006.
+
+
+Q: What is the focus of Manuela M. Veloso's research?
+A: Her research focuses on creating teams of intelligent agents in complex, dynamic environments, such as robot soccer, and developing indoor mobile service robots.
+
+
+Q: What is the significance of the A.M. Turing Award to Carnegie Mellon's School of Computer Science?
+A: Thirteen faculty and alumni from the school have won this prestigious award, known as the "Nobel Prize of Computing."
+
+
+Q: Who is Raj Reddy and what are his contributions?
+A: Raj Reddy is a professor at Carnegie Mellon known for his work in artificial intelligence and human-computer interaction, and he received the ACM Turing Award in 1994.
+
+Q: Who is known for the time delay neural network and the first convolutional neural network trained by gradient descent?
+A: Waibel is known for the time delay neural network and the first convolutional neural network trained by gradient descent.
+
+
+Q: What organizations is Waibel a fellow of?
+A: Waibel is a fellow of the IEEE, ISCA, and the Explorers Club.
+
+
+Q: Which awards has Waibel received?
+A: Waibel has received the IEEE James L. Flanagan Speech and Audio Processing Award and the ACM ICMI Sustained Achievement Award.
+
+
+Q: What is Kathleen Carley's profession and department?
+A: Kathleen Carley is a computational social scientist and a professor in the Software and Societal Systems Department.
+
+
+Q: What role did David Garlan have at Carnegie Mellon University?
+A: David Garlan is a professor in the Software and Societal Systems Department.
+
+
+Q: What is Randal Bryant's title and previous position?
+A: Randal Bryant is a Founders University Professor of Computer Science Emeritus and former Dean of the School of Computer Science.
+
+
+Q: What is Daniel Siewiorek's position at Carnegie Mellon University?
+A: Daniel Siewiorek is the Buhl University Professor Emeritus at CMU.
+
+
+Q: What is Michael Ian Shamos's title and department?
+A: Michael Ian Shamos is a Distinguished Career Professor in the Software and Societal Systems Department and Language Technologies Institute.
+
+
+Q: When was the School of Computer Science at Carnegie Mellon University established?
+A: The School of Computer Science at Carnegie Mellon University was established in 1988.
+
+
+Q: How is the Carnegie Mellon University School of Computer Science ranked as of 2024?
+A: As of 2024, it is ranked tied for No. 1 with MIT, Stanford University, and the University of California, Berkeley.
+
+
+Q: What are some fields that researchers from Carnegie Mellon School of Computer Science have contributed to?
+A: Researchers have contributed to algorithms, artificial intelligence, computer networks, distributed systems, parallel processing, programming languages, computational biology, robotics, language technologies, human-computer interaction, and software engineering.
+
+
+Q: What is the Gates-Hillman Complex, and when did it open?
+A: The Gates-Hillman Complex is a building for Carnegie Mellon's School of Computer Science, opened in 2009.
+
+
+Q: What is the Randy Pausch Memorial Bridge known for?
+A: The Randy Pausch Memorial Bridge is known for its LEDs that glow different colors at night.
+
+
+Q: What is the Tartan Racing team, and what did they achieve in 2007?
+A: Tartan Racing is a collaboration between Carnegie Mellon and General Motors that won the 2007 DARPA Urban Challenge.
+
+
+Q: Who is credited with inventing the smiley face emoticon?
+A: Scott Fahlman is credited with inventing the smiley face emoticon.
+
+
+Q: How many SCS faculty and alumni have won the A. M. Turing Award?
+A: Thirteen SCS faculty and alumni have won the A. M. Turing Award.
+
+
+Q: What was Randy Pausch known for, and when did he pass away?
+A: Randy Pausch was known for "The Last Lecture" and co-founding the Entertainment Technology Center; he passed away on July 25, 2008.
+
+
+Q: What award did Mary Shaw receive in 2014?
+A: Mary Shaw received the National Medal of Technology and Innovation on November 21, 2014.
+
+
+Q: What is Luis von Ahn known for, and what recognition did he receive in 2006?
+A: Luis von Ahn is known for creating Games with a Purpose and was named a MacArthur Fellow in 2006.
+
+Q: Who is William L. "Red" Whittaker?
+A: William L. "Red" Whittaker is a roboticist and research professor of robotics at Carnegie Mellon, known for leading the Tartan Racing team to victory in the 2007 DARPA Grand Challenge.
+
+
+Q: What is Raj Reddy's role at Carnegie Mellon University?
+A: Raj Reddy is the University Professor of Computer Science and Robotics and Moza Bint Nasser Chair at the School of Computer Science at Carnegie Mellon University.
+
+
+Q: What awards has Raj Reddy received?
+A: Raj Reddy has received the ACM Turing Award in 1994, the French Legion of Honour in 1984, the Padma Bhushan Award in 2001, the Honda Prize in 2005, and the Vannevar Bush Award in 2006.
+
+
+Q: What is Takeo Kanade known for?
+A: Takeo Kanade is known for his work in computer vision, multimedia, manipulators, autonomous mobile robots, and sensors.
+
+
+Q: What is Manuela M. Veloso's research focus?
+A: Manuela M. Veloso focuses on creating teams of intelligent agents in complex, dynamic, and uncertain environments, particularly in adversarial environments like robot soccer.
+
+
+Q: What is Moravec's Paradox?
+A: Moravec's Paradox, developed by Hans Moravec, states that it is more difficult for computers to learn basic human instincts than human reason.
+
+
+Q: What is Alexander Waibel known for in machine learning?
+A: Alexander Waibel is known for the Time Delay Neural Network, the first convolutional neural network trained by gradient descent using backpropagation.
+
+
+Q: What is the Gates and Hillman Centers?
+A: The Gates and Hillman Centers is a complex at Carnegie Mellon University that houses much of the School of Computer Science, featuring 217,000 square feet of floor space, including offices, labs, and classrooms.
+
+
+Q: Who is credited with inventing the smiley face emoticon?
+A: Scott Fahlman, a research professor at Carnegie Mellon, is credited with inventing the smiley face emoticon in 1982.
+
+Q: What is the DARPA Grand Challenge?
+A: The DARPA Grand Challenge is a competition for driverless cars sponsored by the Defense Advanced Research Projects Agency (DARPA).
+
+
+Q: Who led the Tartan Racing team in the DARPA Grand Challenge?
+A: Carnegie Mellon roboticist William L. "Red" Whittaker led the Tartan Racing team.
+
+
+Q: What did Tartan Racing achieve in 2007?
+A: In 2007, Tartan Racing won the DARPA Urban Challenge.
+
+
+Q: What were the requirements for the DARPA Urban Challenge?
+A: The challenge required team vehicles to obey all California driving laws, share the road with other drivers and robotic cars, and complete the course in under six hours.
+
+
+Q: What was the prize for winning the DARPA Urban Challenge, and what vehicle did Tartan Racing use?
+A: Tartan Racing won a $2 million cash prize with Boss, a reworked 2007 Chevy Tahoe.
+
+
+Q: How did Boss perform in the DARPA Urban Challenge?
+A: Boss averaged about 14 miles (23 km) an hour for a 55-mile (89 km) trip, beating the second-place team by just under 20 minutes.
+
+
+Q: Who is Randy Pausch and what is he known for?
+A: Randy Pausch was a professor of computer science, known for his "The Last Lecture" speech and his work on the Alice computer teaching tool.
+
+
+Q: What recognition did Mary Shaw receive in 2014?
+A: Mary Shaw was awarded the National Medal of Technology and Innovation on November 21, 2014.
+
+
+Q: What notable creation is Luis von Ahn known for?
+A: Luis von Ahn is known for creating reCAPTCHA and Duolingo.
+
+
+Q: What are some achievements of Raj Reddy?
+A: Raj Reddy received the ACM Turing Award in 1994, the French Legion of Honour in 1984, and the Padma Bhushan Award in 2001.
+
+
+Q: What is Takeo Kanade's role at Carnegie Mellon?
+A: Takeo Kanade is the U.A. and Helen Whitaker University Professor of Computer Science and Robotics.
+
+
+Q: What is Manuela M. Veloso's research focus?
+A: Manuela M. Veloso focuses on creating teams of intelligent agents in complex, dynamic, and adversarial environments.
+
+
+Q: How many SCS faculty and alumni have won the A.M. Turing Award?
+A: Thirteen SCS faculty and alumni have won the A.M. Turing Award.
+
+
+Q: What is the Google Lunar X Prize, and who is leading a team for it?
+A: The Google Lunar X Prize is a competition to land a robot on the moon, and William L. "Red" Whittaker is leading a team for it.
+
+Q: What is the name of the racing team from Carnegie Mellon that won the DARPA Urban Challenge?
+A: Carnegie Mellon Tartan Racing.
+
+
+Q: How much prize money did Carnegie Mellon Tartan Racing win in the DARPA Urban Challenge?
+A: $2 million.
+
+
+Q: When was the Carnegie Mellon Tartan Racing victory in the DARPA Urban Challenge archived?
+A: January 2, 2015.
+
+
+Q: Which institution's faculty awards were retrieved on June 9, 2024?
+A: Carnegie Mellon University's School of Computer Science.
+
+
+Q: What publication contains the article "Foundations and Grand Challenges of Artificial Intelligence"?
+A: AI Magazine.
+
+
+Q: Where can media related to the Gates-Hillman Complex be found?
+A: Wikimedia Commons.
+
+
+Q: What is the title of Edwin Fenton's book about Carnegie Mellon's history?
+A: Carnegie Mellon 1900–2000: A Centennial History.
+
+
+Q: Which president honored the nation's top scientists and innovators on October 3, 2014?
+A: President Obama.
+
+
+Q: What is the name of the Carnegie Mellon laboratory mentioned in the text?
+A: Mobile Robot Lab.
+
+
+Q: Which organization was responsible for the "A.M. Turing Award" archive mentioned in the text?
+A: ACM.org.
+
+
+Q: What is the name of the Carnegie Mellon branch campuses mentioned?
+A: Australia, Qatar, Rwanda, Silicon Valley.
+
+
+Q: What is the name of the theatre tradition at Carnegie Mellon University?
+A: Scotch'n'Soda Theatre.
+
+
+Q: What is the Pittsburgh-based research center associated with Carnegie Mellon University?
+A: Pittsburgh Supercomputing Center.
+
+
+Q: Who is William L. "Red" Whittaker associated with?
+A: Carnegie Mellon University.
+
+
+Q: What is the name of the Carnegie Mellon University project mentioned that involves a reality show?
+A: Waffle Shop: A Reality Show.
