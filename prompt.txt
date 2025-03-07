@@ -29,7 +29,7 @@ You'll be working on the task of factual question-answering (QA). We will focus 
 - **Q:** Who is performing at X venue on Y date?  
 - **A:** [Answer requires current event lookup].
 
-Now, generate Q&A pairs for the following zipped json file  and format it into a .txt file in following format:
+Now, generate Q&A pairs for the following information  and format it into a .txt file in following format:
 Q:
 A:
 
