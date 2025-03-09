@@ -1,0 +1,1938 @@
+Temporal_Sensitive
+
+Augment_Required
+
+1) LLM_Ready
+
+1) LLM_Ready
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+LLM_Ready
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Augment_Required
+
+Augment_Better
+
+Temporal_Sensitive
+
+1) Augment_Required  
+2) Augment_Required  
+3) Augment_Better  
+4) LLM_Ready  
+5) Augment_Better  
+6) LLM_Ready  
+7) LLM_Ready  
+8) Augment_Better  
+9) LLM_Ready  
+10) LLM_Ready  
+11) Augment_Better  
+12) LLM_Ready  
+13) Augment_Better  
+14) Augment_Better  
+15) LLM_Ready  
+16) LLM_Ready  
+17) Augment_Better  
+18) Augment_Better  
+19) Augment_Better  
+20) Augment_Required  
+21) Augment_Better  
+22) Augment_Better  
+23) LLM_Ready  
+24) Augment_Better  
+25) Augment_Better  
+26) Augment_Required  
+27) Augment_Better  
+28) Augment_Better  
+29) LLM_Ready  
+30) Augment_Better  
+31) Augment_Required  
+32) Augment_Required  
+33) Augment_Required  
+34) Augment_Required  
+35) Augment_Required  
+36) LLM_Ready  
+37) LLM_Ready  
+38) LLM_Ready  
+39) Augment_Better  
+40) LLM_Ready  
+41) Augment_Better  
+42) LLM_Ready  
+43) LLM_Ready  
+44) Augment_Better  
+45) Augment_Better  
+46) LLM_Ready  
+47) LLM_Ready  
+48) Augment_Better  
+49) LLM_Ready  
+50) Augment_Better  
+51) Augment_Better  
+52) Augment_Better  
+53) LLM_Ready  
+54) LLM_Ready  
+55) Augment_Better  
+56) Augment_Better  
+57) LLM_Ready  
+58) LLM_Ready  
+59) Augment_Better  
+60) Augment_Better  
+61) Augment_Better  
+62) Augment_Better  
+63) Augment_Better  
+64) Augment_Better  
+65) Augment_Better  
+66) Augment_Better  
+67) Augment_Better  
+68) Augment_Better  
+69) Augment_Better  
+70) Augment_Better  
+71) Augment_Better  
+72) Augment_Better  
+73) Augment_Better  
+74) Augment_Better  
+75) Augment_Better  
+76) Augment_Better  
+77) Augment_Better  
+78) Augment_Better  
+79) Augment_Better  
+80) LLM_Ready  
+81) Augment_Better  
+82) Temporal_Sensitive  
+83) LLM_Ready  
+84) Augment_Better  
+85) Augment_Better  
+86) Augment_Better  
+87) LLM_Ready  
+88) Augment_Better  
+89) Augment_Better  
+90) Augment_Better  
+91) LLM_Ready  
+92) Augment_Better  
+93) Augment_Better  
+94) Augment_Better  
+95) Augment_Better  
+96) Augment_Better  
+97) Augment_Better  
+98) Augment_Better  
+99) Augment_Better  
+100) Augment_Better  
+101) Augment_Better  
+102) Augment_Better  
+103) Augment_Better  
+104) Augment_Better  
+105) Augment_Better  
+106) Augment_Better  
+107) Augment_Better  
+108) Augment_Better  
+109) Augment_Better  
+110) Augment_Better  
+111) Augment_Better  
+112) Augment_Better  
+113) Augment_Better  
+114) Augment_Better  
+115) Augment_Better  
+116) Augment_Better  
+117) Augment_Better  
+118) Augment_Better  
+119) Augment_Better  
+120) Augment_Better  
+121) Augment_Better  
+122) Augment_Better  
+123) Augment_Better  
+124) Augment_Better  
+125) Augment_Better  
+126) Augment_Better  
+127) Augment_Better  
+128) Augment_Better  
+129) Augment_Better  
+130) Augment_Better  
+131) Augment_Better  
+132) Augment_Better  
+133) LLM_Ready  
+134) LLM_Ready  
+135) Augment_Better  
+136) Augment_Better  
+137) Augment_Better  
+138) Augment_Better  
+139) LLM_Ready  
+140) Augment_Better  
+141) Augment_Better  
+142) Augment_Better  
+143) Augment_Better
+
+Augment_Required
+
+Augment_Required
+
+1) LLM_Ready
+
+1) LLM_Ready
+
+Temporal_Sensitive
+
+Augment_Required
+
+Augment_Required
+
+Augment_Required
+
+Augment_Required
+
+Temporal_Sensitive
+
+Augment_Required
+
+Augment_Required
+
+Temporal_Sensitive
+
+Augment_Required
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Augment_Required
+
+Augment_Required
+
+Temporal_Sensitive
+
+Augment_Required
+
+Temporal_Sensitive
+
+Augment_Required
+
+Augment_Required
+
+Augment_Required
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Augment_Required
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+1) Augment_Required
+2) Augment_Required
+3) Augment_Required
+4) Augment_Required
+5) Augment_Required
+6) Augment_Required
+7) Augment_Required
+8) Augment_Required
+9) Augment_Required
+10) Augment_Required
+11) Temporal_Sensitive
+12) Temporal_Sensitive
+13) Augment_Required
+14) Augment_Required
+15) Augment_Required
+16) Augment_Required
+17) Augment_Required
+18) Augment_Required
+19) Augment_Required
+20) Augment_Required
+21) Augment_Required
+22) Augment_Required
+23) Augment_Required
+24) Augment_Required
+25) Augment_Required
+26) Augment_Required
+27) Temporal_Sensitive
+28) Augment_Required
+29) Augment_Required
+30) Augment_Required
+31) Augment_Required
+32) Augment_Required
+33) Augment_Required
+34) Augment_Required
+35) Augment_Required
+36) Augment_Required
+37) Augment_Required
+38) Augment_Required
+39) Augment_Required
+40) Augment_Required
+41) Augment_Required
+42) Augment_Required
+43) Augment_Required
+44) Augment_Required
+45) Augment_Required
+46) Augment_Required
+47) Augment_Required
+48) Augment_Required
+49) Augment_Required
+50) Augment_Required
+51) Augment_Required
+52) Augment_Required
+53) Augment_Required
+54) Augment_Required
+55) Augment_Required
+56) Temporal_Sensitive
+57) Augment_Required
+58) Augment_Required
+59) Augment_Required
+60) Augment_Required
+61) Augment_Required
+62) Temporal_Sensitive
+63) Augment_Required
+64) Augment_Required
+65) Augment_Required
+66) Augment_Required
+67) Augment_Required
+68) Augment_Required
+69) Augment_Required
+70) Temporal_Sensitive
+71) Temporal_Sensitive
+72) Augment_Required
+73) Augment_Required
+74) Augment_Required
+75) Augment_Required
+76) Augment_Required
+77) Augment_Required
+78) Augment_Required
+79) Augment_Required
+80) Augment_Required
+81) Augment_Required
+82) Augment_Required
+83) Augment_Required
+84) Augment_Required
+85) Temporal_Sensitive
+86) Augment_Required
+87) Augment_Required
+88) Augment_Required
+89) Augment_Required
+90) Augment_Required
+91) Augment_Required
+92) Augment_Required
+93) Augment_Required
+94) Augment_Required
+95) Augment_Required
+96) Augment_Required
+97) Augment_Required
+98) Augment_Required
+99) Augment_Required
+100) Augment_Required
+101) Augment_Required
+102) Augment_Required
+103) Augment_Required
+104) Augment_Required
+105) Augment_Required
+106) Augment_Required
+107) Augment_Required
+108) Augment_Required
+109) Augment_Required
+110) Augment_Required
+
+Augment_Required
+
+1) LLM_Ready: 12583: What is the historical significance of the Freedom House Ambulance Service mentioned by Dr. Ronald Roth?
+
+2) Augment_Better: 12685: What was Therese Rocco's notable achievement in the Pittsburgh Bureau of Police?
+
+3) Augment_Required: 12603: What is Scott Schubert's new position after retiring as Pittsburgh Police Chief?
+
+4) Temporal_Sensitive: 12629: What major event will Pittsburgh host on March 11, 2023?
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+1) LLM_Ready
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+LLM_Ready
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Augment_Required
+
+Temporal_Sensitive
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+1. Augment_Required
+2. Augment_Required
+3. Augment_Required
+4. Augment_Required
+5. Augment_Required
+6. Augment_Required
+7. Temporal_Sensitive
+8. Temporal_Sensitive
+9. Temporal_Sensitive
+10. Augment_Required
+11. Augment_Required
+12. Augment_Required
+13. Augment_Required
+14. Temporal_Sensitive
+15. Augment_Required
+16. Augment_Required
+17. Augment_Required
+18. Augment_Required
+19. Augment_Required
+20. Augment_Required
+21. Augment_Required
+22. Augment_Required
+23. Augment_Required
+24. Augment_Required
+25. Augment_Required
+26. Augment_Required
+27. Augment_Required
+28. Augment_Required
+29. Augment_Required
+30. Augment_Required
+31. Augment_Required
+32. Augment_Required
+33. Augment_Required
+34. Augment_Required
+35. Augment_Required
+36. Augment_Required
+37. Augment_Required
+38. Augment_Required
+39. Augment_Required
+40. Augment_Required
+41. Augment_Required
+42. Augment_Required
+43. Augment_Required
+44. Augment_Required
+45. Augment_Required
+46. Augment_Required
+47. Augment_Required
+48. Augment_Required
+49. Augment_Required
+50. Augment_Required
+51. Augment_Required
+52. Augment_Required
+53. Augment_Required
+54. Augment_Required
+55. Augment_Required
+56. Augment_Required
+57. Augment_Required
+58. Augment_Required
+59. Augment_Required
+60. Augment_Required
+61. Augment_Required
+62. Augment_Required
+63. Augment_Required
+64. Augment_Required
+65. Augment_Required
+66. Augment_Required
+67. Augment_Required
+68. Augment_Required
+69. Augment_Required
+70. Augment_Required
+71. Augment_Required
+72. Augment_Required
+73. Augment_Required
+74. Augment_Required
+75. Augment_Required
+76. Augment_Required
+77. Augment_Required
+78. Augment_Required
+79. Augment_Required
+80. Augment_Required
+81. Augment_Required
+82. Augment_Required
+83. Augment_Required
+84. Augment_Required
+85. Augment_Required
+86. Augment_Required
+87. Augment_Required
+88. Augment_Required
+89. Augment_Required
+90. Augment_Required
+91. Augment_Required
+92. Augment_Required
+93. Augment_Required
+94. Augment_Required
+95. Augment_Required
+96. Augment_Required
+97. Augment_Required
+98. Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+1) Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+1) Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Augment_Required
+
+Temporal_Sensitive
+
+1) LLM_Ready
+
+Temporal_Sensitive
+
+Augment_Required
+
+Augment_Required
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Augment_Required
+
+Temporal_Sensitive
+
+Augment_Required
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Augment_Required
+
+Augment_Required
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+1) Augment_Required
+2) LLM_Ready
+3) Augment_Required
+4) Augment_Required
+5) Augment_Required
+6) Augment_Required
+7) Augment_Required
+8) Temporal_Sensitive
+9) Augment_Required
+10) Augment_Required
+11) Temporal_Sensitive
+12) Temporal_Sensitive
+13) LLM_Ready
+14) LLM_Ready
+15) Temporal_Sensitive
+16) LLM_Ready
+17) Augment_Required
+18) Temporal_Sensitive
+19) Augment_Required
+20) Augment_Required
+21) Augment_Required
+22) Temporal_Sensitive
+23) LLM_Ready
+24) LLM_Ready
+25) Augment_Required
+26) LLM_Ready
+27) Augment_Required
+28) Augment_Required
+29) Augment_Required
+30) LLM_Ready
+31) Augment_Required
+32) LLM_Ready
+33) LLM_Ready
+34) LLM_Ready
+35) Augment_Required
+36) Temporal_Sensitive
+37) Augment_Required
+38) LLM_Ready
+39) Augment_Required
+40) Augment_Required
+41) Augment_Required
+42) Augment_Required
+43) LLM_Ready
+44) Augment_Required
+45) Augment_Required
+46) Augment_Required
+47) Augment_Required
+48) Augment_Required
+49) Augment_Required
+50) Augment_Required
+51) Augment_Required
+52) Augment_Required
+53) Temporal_Sensitive
+54) LLM_Ready
+55) Augment_Required
+56) LLM_Ready
+57) LLM_Ready
+58) Augment_Required
+59) Temporal_Sensitive
+60) Augment_Required
+61) Augment_Required
+62) Augment_Required
+63) Augment_Required
+64) Augment_Required
+65) Augment_Required
+66) Augment_Required
+67) Augment_Required
+68) LLM_Ready
+69) Temporal_Sensitive
+70) LLM_Ready
+71) Augment_Required
+72) LLM_Ready
+73) LLM_Ready
+74) LLM_Ready
+75) Augment_Required
+76) Augment_Required
+77) Augment_Required
+78) Augment_Required
+79) Augment_Required
+80) Augment_Required
+81) LLM_Ready
+82) Augment_Required
+83) Augment_Required
+84) Augment_Required
+85) Augment_Required
+86) Augment_Required
+87) Augment_Required
+88) LLM_Ready
+89) Augment_Required
+90) Augment_Required
+91) Augment_Required
+92) Augment_Required
+93) LLM_Ready
+94) Temporal_Sensitive
+95) Augment_Required
+96) Augment_Required
+97) LLM_Ready
+98) Augment_Required
+99) Augment_Required
+100) Augment_Required
+101) LLM_Ready
+102) Augment_Required
+103) Augment_Required
+104) Augment_Required
+105) Augment_Required
+106) Augment_Required
+107) Temporal_Sensitive
+108) Augment_Required
+109) Augment_Required
+110) Augment_Required
+111) Augment_Required
+112) Augment_Required
+113) Augment_Required
+114) Augment_Required
+115) Augment_Required
+116) Augment_Required
+117) Augment_Required
+118) Augment_Required
+119) Augment_Required
+120) Augment_Required
+121) LLM_Ready
+122) LLM_Ready
+123) Augment_Better
+124) LLM_Ready
+125) LLM_Ready
+126) LLM_Ready
+127) Augment_Required
+128) LLM_Ready
+129) Augment_Better
+130) LLM_Ready
+131) Augment_Required
+132) LLM_Ready
+133) Augment_Required
+134) Augment_Required
+135) Augment_Required
+136) Augment_Required
+137) LLM_Ready
+138) Augment_Required
+139) LLM_Ready
+140) Augment_Required
+141) Augment_Required
+142) Augment_Required
+143) LLM_Ready
+144) Augment_Required
+145) LLM
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+1) LLM_Ready
+2) Augment_Better
+3) Augment_Required
+4) Augment_Required
+5) Augment_Better
+6) Augment_Required
+7) Augment_Better
+8) Augment_Better
+9) Augment_Better
+10) Augment_Required
+11) Augment_Required
+12) Augment_Required
+13) Augment_Required
+14) Augment_Required
+15) Augment_Required
+16) Augment_Required
+17) Augment_Required
+18) Augment_Required
+19) Augment_Required
+20) Augment_Better
+21) Augment_Better
+22) Augment_Better
+23) LLM_Ready
+24) LLM_Ready
+25) LLM_Ready
+26) LLM_Ready
+27) LLM_Ready
+28) LLM_Ready
+29) LLM_Ready
+30) Augment_Required
+31) Augment_Better
+32) LLM_Ready
+33) Augment_Required
+34) Augment_Required
+35) Augment_Required
+36) Augment_Required
+37) Augment_Required
+38) Augment_Required
+39) Augment_Required
+40) Augment_Required
+41) Augment_Required
+42) Augment_Required
+43) Augment_Required
+44) Augment_Required
+45) Augment_Required
+46) Augment_Required
+47) Augment_Required
+48) Augment_Required
+49) Augment_Required
+50) Augment_Required
+51) Augment_Required
+52) Augment_Required
+53) Augment_Required
+54) Augment_Required
+55) Augment_Required
+56) Augment_Required
+57) Augment_Required
+58) Augment_Required
+59) Augment_Required
+60) Augment_Required
+61) Augment_Required
+62) Augment_Required
+63) Augment_Required
+64) Augment_Required
+65) Augment_Required
+66) Augment_Required
+67) Augment_Required
+68) Augment_Required
+69) Augment_Required
+70) Augment_Required
+71) Augment_Required
+72) Augment_Required
+73) Augment_Required
+74) Augment_Required
+75) Augment_Required
+76) Augment_Required
+77) Augment_Required
+78) Augment_Required
+79) Augment_Required
+80) Augment_Required
+81) Augment_Required
+82) Augment_Required
+83) Augment_Required
+84) Augment_Required
+85) Augment_Required
+86) Augment_Required
+87) Augment_Required
+88) Augment_Required
+89) Augment_Required
+90) Augment_Required
+91) Augment_Required
+92) Augment_Required
+93) Augment_Required
+94) Augment_Required
+95) Augment_Required
+96) Augment_Required
+97) Augment_Required
+98) Augment_Required
+99) Augment_Required
+100) Augment_Required
+
+Temporal_Sensitive
+
+1) Temporal_Sensitive
+2) LLM_Ready
+3) Augment_Required
+4) Augment_Required
+5) Augment_Required
+6) Augment_Required
+7) Augment_Required
+8) Augment_Required
+9) LLM_Ready
+10) Augment_Required
+11) Augment_Required
+12) LLM_Ready
+13) LLM_Ready
+14) Augment_Required
+15) Augment_Required
+16) Augment_Required
+17) Augment_Required
+18) Augment_Required
+19) Temporal_Sensitive
+20) Temporal_Sensitive
+21) Augment_Required
+22) Augment_Required
+23) Augment_Required
+24) Augment_Required
+25) Augment_Required
+26) Augment_Required
+27) Augment_Required
+28) LLM_Ready
+29) Augment_Required
+30) Augment_Required
+31) Augment_Required
+32) Temporal_Sensitive
+33) Augment_Required
+34) Augment_Required
+35) Augment_Required
+36) Augment_Required
+37) Augment_Required
+38) Augment_Required
+39) LLM_Ready
+40) Augment_Required
+41) Augment_Required
+42) Augment_Required
+43) Augment_Required
+44) Augment_Better
+45) LLM_Ready
+46) Augment_Required
+47) Augment_Required
+48) Augment_Required
+49) LLM_Ready
+50) Augment_Required
+51) Augment_Required
+52) Augment_Required
+53) Augment_Required
+54) Augment_Required
+55) Augment_Required
+56) LLM_Ready
+57) LLM_Ready
+58) LLM_Ready
+59) LLM_Ready
+60) LLM_Ready
+61) LLM_Ready
+62) LLM_Ready
+63) Augment_Required
+64) Augment_Required
+65) Augment_Required
+66) Augment_Required
+67) Augment_Required
+68) Augment_Required
+69) Augment_Required
+70) Augment_Required
+71) Augment_Required
+72) Augment_Required
+73) Temporal_Sensitive
+74) Augment_Required
+75) Augment_Required
+76) Augment_Required
+77) Augment_Required
+78) Augment_Required
+79) Augment_Required
+80) Augment_Required
+81) Augment_Required
+82) Augment_Required
+83) Augment_Required
+84) Augment_Required
+85) Augment_Required
+86) Augment_Required
+87) Augment_Required
+88) Temporal_Sensitive
+89) Augment_Required
+90) Augment_Required
+91) Augment_Required
+92) Augment_Required
+93) Augment_Required
+94) Augment_Required
+95) Augment_Required
+96) Augment_Required
+97) LLM_Ready
+98) Augment_Required
+99) Augment_Required
+100) Augment_Required
+101) Augment_Required
+102) Augment_Required
+103) Augment_Required
+104) Augment_Required
+105) Augment_Required
+106) Augment_Required
+107) Augment_Required
+108) Augment_Required
+109) Augment_Required
+110) Augment_Required
+111) Augment_Required
+112) Augment_Required
+113) Augment_Required
+114) Augment_Required
+115) Augment_Required
+116) Augment_Required
+117) Augment_Required
+118) Augment_Required
+119) Augment_Required
+120) Augment_Required
+121) Augment_Required
+122) Augment_Required
+123) Augment_Required
+124) Augment_Required
+125) Augment_Required
+126) Augment_Required
+127) Augment_Required
+128) Augment_Required
+129) Augment_Required
+130) Augment_Required
+131) Augment_Required
+132) Augment_Required
+133) Augment_Required
+134) Augment_Required
+135) Augment_Required
+136) Augment_Required
+137) Augment_Required
+138) Augment_Required
+139) Augment_Required
+140) Augment_Required
+141) Augment_Required
+142) Augment_Required
+143) Augment_Required
+144) Augment_
+
+1) Augment_Better
+2) Augment_Required
+3) Augment_Required
+4) Augment_Required
+5) Augment_Required
+6) Augment_Better
+7) LLM_Ready
+8) Augment_Required
+9) LLM_Ready
+10) Augment_Better
+11) LLM_Ready
+12) LLM_Ready
+13) Augment_Required
+14) Augment_Better
+15) Augment_Required
+16) LLM_Ready
+17) Augment_Better
+18) Augment_Better
+19) LLM_Ready
+20) LLM_Ready
+21) LLM_Ready
+22) LLM_Ready
+23) LLM_Ready
+24) Augment_Better
+25) LLM_Ready
+26) Augment_Better
+27) Augment_Better
+28) Augment_Required
+29) LLM_Ready
+30) Augment_Better
+31) Augment_Required
+32) Augment_Required
+33) Augment_Required
+34) LLM_Ready
+35) LLM_Ready
+36) Temporal_Sensitive
+37) Augment_Better
+38) Augment_Better
+39) Augment_Required
+40) Augment_Required
+41) LLM_Ready
+42) LLM_Ready
+43) Augment_Better
+44) Augment_Required
+45) Augment_Better
+46) LLM_Ready
+47) Augment_Better
+48) LLM_Ready
+49) Augment_Required
+50) LLM_Ready
+51) LLM_Ready
+52) Augment_Better
+53) Augment_Better
+54) Augment_Required
+55) LLM_Ready
+56) Augment_Better
+57) Augment_Better
+58) LLM_Ready
+59) Augment_Required
+60) LLM_Ready
+61) Augment_Better
+62) Augment_Better
+63) Augment_Required
+64) Augment_Required
+65) Augment_Better
+66) Augment_Required
+67) Augment_Better
+68) Augment_Better
+69) Augment_Better
+70) Augment_Required
+71) Augment_Required
+72) Augment_Required
+73) Augment_Required
+74) Augment_Required
+75) Augment_Required
+76) Augment_Required
+77) Augment_Better
+78) Augment_Required
+79) Augment_Better
+80) Augment_Required
+81) Augment_Better
+82) Augment_Better
+83) LLM_Ready
+84) Augment_Required
+85) Augment_Required
+86) Augment_Required
+87) Augment_Required
+88) Augment_Better
+89) Augment_Required
+90) Augment_Required
+91) Augment_Required
+92) Augment_Required
+93) Augment_Required
+94) Augment_Better
+95) Augment_Required
+96) Augment_Required
+97) Augment_Better
+98) Augment_Required
+99) Augment_Required
+100) Augment_Better
+101) Augment_Better
+102) Augment_Better
+103) Augment_Better
+104) Augment_Required
+105) Augment_Required
+106) Augment_Required
+107) Augment_Required
+108) Augment_Required
+109) Augment_Required
+110) Augment_Required
+111) Augment_Required
+112) Augment_Required
+113) Augment_Required
+114) Augment_Required
+115) Augment_Required
+116) Augment_Required
+117) Augment_Required
+118) Augment_Required
+119) Augment_Required
+120) Augment_Required
+121) Augment_Required
+122) Augment_Required
+123) Augment_Required
+124) Augment_Required
+125) Augment_Required
+126) Augment_Required
+127) Augment_Required
+128) Augment_Required
+129) Augment_Required
+130) Augment_Required
+131) Augment_Required
+132) Augment_Required
+133) Augment_Required
+134) Augment_Required
+135) Augment_Required
+136) Augment_Required
+137) Augment_Required
+138) Augment_Required
+139) Augment_Required
+140) Augment_Required
+141) Augment_Required
+142) Augment_Required
+143) Augment_Required
+
+1) Augment_Required
+2) Augment_Better
+3) Augment_Better
+4) Augment_Better
+5) Augment_Required
+6) Augment_Required
+7) LLM_Ready
+8) Augment_Required
+9) Augment_Required
+10) Temporal_Sensitive
+11) LLM_Ready
+12) Augment_Required
+13) Augment_Required
+14) Augment_Required
+15) Augment_Required
+16) LLM_Ready
+17) Augment_Required
+18) Augment_Required
+19) Augment_Better
+20) Augment_Required
+21) Augment_Required
+22) LLM_Ready
+23) Augment_Required
+24) Augment_Required
+25) Augment_Required
+26) Augment_Required
+27) Augment_Required
+28) Augment_Required
+29) Augment_Required
+30) Augment_Required
+31) Augment_Required
+32) Temporal_Sensitive
+33) Augment_Required
+34) Temporal_Sensitive
+35) Temporal_Sensitive
+36) Augment_Required
+37) Augment_Required
+38) Augment_Required
+39) Augment_Required
+40) Augment_Required
+41) Augment_Required
+42) Augment_Required
+43) Temporal_Sensitive
+44) Augment_Better
+45) Augment_Required
+46) Augment_Required
+47) Augment_Required
+48) Augment_Required
+49) Augment_Required
+50) Augment_Better
+51) Augment_Required
+52) LLM_Ready
+53) Augment_Required
+54) Augment_Required
+55) Augment_Required
+56) Augment_Required
+57) Augment_Required
+58) Augment_Required
+59) Augment_Better
+60) Temporal_Sensitive
+61) Augment_Required
+62) Augment_Required
+63) Augment_Required
+64) Augment_Required
+65) Augment_Required
+66) Augment_Required
+67) Augment_Required
+68) Augment_Required
+69) Augment_Required
+70) Augment_Required
+71) Augment_Required
+72) Augment_Required
+73) Augment_Required
+74) Augment_Required
+75) Augment_Required
+76) Augment_Required
+77) Augment_Required
+78) Augment_Required
+79) Augment_Required
+80) Augment_Required
+81) Augment_Required
+82) Augment_Required
+83) Augment_Required
+84) Augment_Required
+85) Augment_Required
+86) Augment_Required
+87) Augment_Required
+88) Augment_Required
+89) Augment_Required
+90) Augment_Required
+91) Augment_Required
+92) Augment_Required
+93) Augment_Required
+94) Augment_Required
+95) Augment_Required
+96) Augment_Required
+97) Augment_Required
+98) Augment_Required
+99) Augment_Required
+100) Augment_Required
+101) Augment_Required
+102) Augment_Required
+103) Augment_Required
+104) Augment_Required
+105) Augment_Required
+106) Augment_Required
+107) Augment_Required
+108) Augment_Required
+109) Augment_Required
+110) Augment_Required
+111) Augment_Required
+112) Augment_Required
+113) Augment_Required
+114) Augment_Required
+115) Augment_Required
+116) Augment_Required
+117) Augment_Required
+118) Augment_Required
+119) Augment_Required
+120) Augment_Required
+121) Augment_Required
+122) Augment_Required
+123) Augment_Required
+124) Augment_Required
+125) Augment_Required
+126) Augment_Required
+127) Augment_Required
+128) Augment_Required
+129) Augment_Required
+130) Augment_Required
+131) Augment_Required
+132) Augment_Required
+133) Augment_Required
+134) Augment_Required
+135) Augment_Required
+136) Augment_Required
+137) Augment_Required
+138) Augment_Required
+139) Augment_Required
+140) Augment_Required
+141) Augment_Required
+142) Augment_Required
+143) Augment_Required
+144) Augment_
+
+Augment_Required
+
+Temporal_Sensitive
+
+LLM_Ready
+
+1) Augment_Required
+2) Augment_Better
+3) Augment_Better
+4) Augment_Required
+5) Augment_Required
+6) Augment_Required
+7) Augment_Better
+8) Augment_Required
+9) Augment_Better
+10) LLM_Ready
+11) LLM_Ready
+12) LLM_Ready
+13) LLM_Ready
+14) LLM_Ready
+15) LLM_Ready
+16) LLM_Ready
+17) LLM_Ready
+18) LLM_Ready
+19) LLM_Ready
+20) LLM_Ready
+21) LLM_Ready
+22) LLM_Ready
+23) LLM_Ready
+24) LLM_Ready
+25) LLM_Ready
+26) LLM_Ready
+27) LLM_Ready
+28) LLM_Ready
+29) LLM_Ready
+30) LLM_Ready
+31) LLM_Ready
+32) LLM_Ready
+33) LLM_Ready
+34) LLM_Ready
+35) LLM_Ready
+36) LLM_Ready
+37) LLM_Ready
+38) LLM_Ready
+39) LLM_Ready
+40) LLM_Ready
+41) LLM_Ready
+42) LLM_Ready
+43) LLM_Ready
+44) LLM_Ready
+45) LLM_Ready
+46) LLM_Ready
+47) LLM_Ready
+48) LLM_Ready
+49) LLM_Ready
+50) LLM_Ready
+51) Augment_Required
+52) Augment_Required
+53) Augment_Required
+54) Augment_Required
+55) Augment_Better
+56) Augment_Required
+57) Augment_Required
+58) Augment_Required
+59) Augment_Required
+60) Augment_Required
+61) Augment_Required
+62) Augment_Required
+63) Augment_Required
+64) Augment_Required
+65) Augment_Required
+66) Augment_Required
+67) Augment_Required
+68) Augment_Required
+69) Augment_Required
+70) Augment_Required
+71) Augment_Required
+72) Augment_Required
+73) Augment_Required
+74) Augment_Required
+75) Augment_Required
+76) Augment_Required
+77) Augment_Required
+78) Augment_Required
+79) Augment_Required
+80) Augment_Required
+81) Augment_Required
+82) Augment_Required
+83) Augment_Required
+84) Augment_Required
+85) Augment_Required
+86) Augment_Required
+87) Augment_Required
+88) Augment_Required
+89) Augment_Required
+90) Augment_Required
+91) Augment_Required
+92) Augment_Required
+93) Augment_Required
+94) Augment_Required
+95) Augment_Required
+96) Augment_Required
+97) Augment_Required
+98) Augment_Required
+99) Augment_Required
+100) Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+1) Augment_Required
+2) Augment_Required
+3) LLM_Ready
+4) Augment_Required
+5) Augment_Required
+6) LLM_Ready
+7) LLM_Ready
+8) Augment_Required
+9) Temporal_Sensitive
+10) Augment_Required
+11) LLM_Ready
+12) Augment_Required
+13) Augment_Required
+14) Temporal_Sensitive
+15) Augment_Required
+16) LLM_Ready
+17) LLM_Ready
+18) Augment_Required
+19) Temporal_Sensitive
+20) Augment_Required
+21) Augment_Required
+22) Augment_Required
+23) Augment_Required
+24) Augment_Required
+25) Augment_Required
+26) Augment_Required
+27) Augment_Required
+28) Augment_Required
+29) LLM_Ready
+30) LLM_Ready
+31) Augment_Required
+32) Augment_Required
+33) LLM_Ready
+34) LLM_Ready
+35) LLM_Ready
+36) Temporal_Sensitive
+37) Temporal_Sensitive
+38) Augment_Better
+39) LLM_Ready
+40) Augment_Required
+41) Augment_Required
+42) Augment_Required
+43) Augment_Required
+44) LLM_Ready
+45) Augment_Required
+46) Augment_Required
+47) Augment_Required
+48) Augment_Required
+49) Augment_Required
+50) Augment_Required
+51) Augment_Required
+52) Augment_Required
+53) LLM_Ready
+54) Augment_Required
+55) LLM_Ready
+56) Augment_Required
+57) Augment_Required
+58) Augment_Required
+59) LLM_Ready
+60) Temporal_Sensitive
+61) LLM_Ready
+62) LLM_Ready
+63) Augment_Required
+64) LLM_Ready
+65) Augment_Required
+66) LLM_Ready
+67) Augment_Required
+68) Augment_Required
+69) Augment_Required
+70) Augment_Required
+71) Augment_Required
+72) Augment_Required
+73) Augment_Required
+74) Augment_Required
+75) Augment_Better
+76) Augment_Required
+77) Augment_Required
+78) Augment_Required
+79) Augment_Required
+80) Augment_Required
+81) Temporal_Sensitive
+82) LLM_Ready
+83) Augment_Required
+84) Augment_Required
+85) Augment_Required
+86) Augment_Required
+87) Augment_Required
+88) Augment_Required
+89) Augment_Better
+90) Augment_Required
+91) Augment_Better
+92) Augment_Required
+93) Augment_Required
+94) Augment_Required
+95) Augment_Required
+96) Augment_Required
+97) Augment_Required
+98) Augment_Required
+99) Augment_Required
+100) Augment_Required
+101) Augment_Required
+102) Augment_Required
+103) Augment_Required
+104) Augment_Required
+105) Augment_Required
+106) Augment_Required
+107) Temporal_Sensitive
+108) Augment_Required
+109) Augment_Required
+110) Augment_Required
+111) Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+1) Augment_Better
+2) Temporal_Sensitive
+3) Temporal_Sensitive
+4) Temporal_Sensitive
+5) Augment_Better
+6) Temporal_Sensitive
+7) Augment_Better
+8) Temporal_Sensitive
+9) Augment_Better
+10) Temporal_Sensitive
+11) Temporal_Sensitive
+12) Temporal_Sensitive
+13) Augment_Better
+14) Temporal_Sensitive
+15) Augment_Better
+16) Temporal_Sensitive
+17) Augment_Better
+18) Augment_Required
+19) Augment_Required
+20) Augment_Better
+21) Augment_Better
+22) LLM_Ready
+23) LLM_Ready
+24) LLM_Ready
+25) LLM_Ready
+26) LLM_Ready
+27) LLM_Ready
+28) LLM_Ready
+29) LLM_Ready
+30) LLM_Ready
+31) LLM_Ready
+32) LLM_Ready
+33) LLM_Ready
+34) LLM_Ready
+35) LLM_Ready
+36) LLM_Ready
+37) LLM_Ready
+38) LLM_Ready
+39) LLM_Ready
+40) LLM_Ready
+41) LLM_Ready
+42) LLM_Ready
+43) LLM_Ready
+44) LLM_Ready
+45) LLM_Ready
+46) LLM_Ready
+47) LLM_Ready
+48) LLM_Ready
+49) LLM_Ready
+50) LLM_Ready
+51) LLM_Ready
+52) LLM_Ready
+53) LLM_Ready
+54) LLM_Ready
+55) LLM_Ready
+56) LLM_Ready
+57) LLM_Ready
+58) LLM_Ready
+59) Temporal_Sensitive
+60) LLM_Ready
+61) LLM_Ready
+62) LLM_Ready
+63) LLM_Ready
+64) LLM_Ready
+65) LLM_Ready
+66) LLM_Ready
+67) LLM_Ready
+68) LLM_Ready
+69) LLM_Ready
+70) LLM_Ready
+71) LLM_Ready
+72) LLM_Ready
+73) LLM_Ready
+74) LLM_Ready
+75) LLM_Ready
+76) LLM_Ready
+77) LLM_Ready
+78) LLM_Ready
+79) LLM_Ready
+80) LLM_Ready
+81) LLM_Ready
+82) LLM_Ready
+83) Augment_Better
+84) LLM_Ready
+85) LLM_Ready
+86) LLM_Ready
+87) LLM_Ready
+88) LLM_Ready
+89) LLM_Ready
+90) LLM_Ready
+91) LLM_Ready
+92) LLM_Ready
+93) LLM_Ready
+94) LLM_Ready
+95) LLM_Ready
+96) LLM_Ready
+97) LLM_Ready
+98) LLM_Ready
+99) LLM_Ready
+100) LLM_Ready
+101) LLM_Ready
+102) LLM_Ready
+103) LLM_Ready
+104) LLM_Ready
+105) LLM_Ready
+106) LLM_Ready
+107) LLM_Ready
+108) LLM_Ready
+109) LLM_Ready
+110) LLM_Ready
+111) LLM_Ready
+112) LLM_Ready
+113) LLM_Ready
+114) LLM_Ready
+115) LLM_Ready
+116) LLM_Ready
+117) LLM_Ready
+118) LLM_Ready
+119) LLM_Ready
+120) LLM_Ready
+121) LLM_Ready
+122) LLM_Ready
+123) LLM_Ready
+124) LLM_Ready
+125) LLM_Ready
+126) LLM_Ready
+127) LLM_Ready
+128) LLM_Ready
+129) LLM_Ready
+130) LLM_Ready
+131) LLM_Ready
+132) LLM_Ready
+133) LLM_Ready
+134) LLM_Ready
+135) LLM_Ready
+136) LLM_Ready
+137) LLM_Ready
+138) LLM_Ready
+139) LLM_Ready
+140) LLM_Ready
+141) LLM_Ready
+142) LLM_Ready
+143) LLM_Ready
+144) LLM_Ready
+145) L
+
+1) Temporal_Sensitive  
+2) LLM_Ready  
+3) LLM_Ready  
+4) LLM_Ready  
+5) LLM_Ready  
+6) LLM_Ready  
+7) Augment_Better  
+8) LLM_Ready  
+9) LLM_Ready  
+10) LLM_Ready  
+11) LLM_Ready  
+12) LLM_Ready  
+13) LLM_Ready  
+14) LLM_Ready  
+15) LLM_Ready  
+16) LLM_Ready  
+17) Temporal_Sensitive  
+18) LLM_Ready  
+19) LLM_Ready  
+20) LLM_Ready  
+21) LLM_Ready  
+22) LLM_Ready  
+23) LLM_Ready  
+24) LLM_Ready  
+25) LLM_Ready  
+26) LLM_Ready  
+27) LLM_Ready  
+28) Augment_Required  
+29) LLM_Ready  
+30) Augment_Better  
+31) LLM_Ready  
+32) LLM_Ready  
+33) LLM_Ready  
+34) LLM_Ready  
+35) LLM_Ready  
+36) LLM_Ready  
+37) Augment_Required  
+38) Temporal_Sensitive  
+39) Augment_Required  
+40) LLM_Ready  
+41) LLM_Ready  
+42) LLM_Ready  
+43) LLM_Ready  
+44) LLM_Ready  
+45) LLM_Ready  
+46) LLM_Ready  
+47) LLM_Ready  
+48) LLM_Ready  
+49) LLM_Ready  
+50) LLM_Ready  
+51) LLM_Ready  
+52) LLM_Ready  
+53) LLM_Ready  
+54) LLM_Ready  
+55) Temporal_Sensitive  
+56) LLM_Ready  
+57) LLM_Ready  
+58) Augment_Better  
+59) LLM_Ready  
+60) LLM_Ready  
+61) LLM_Ready  
+62) LLM_Ready  
+63) LLM_Ready  
+64) LLM_Ready  
+65) LLM_Ready  
+66) LLM_Ready  
+67) Augment_Required  
+68) LLM_Ready  
+69) LLM_Ready  
+70) LLM_Ready  
+71) LLM_Ready  
+72) LLM_Ready  
+73) LLM_Ready  
+74) LLM_Ready  
+75) LLM_Ready  
+76) LLM_Ready  
+77) LLM_Ready  
+78) LLM_Ready  
+79) LLM_Ready  
+80) LLM_Ready  
+81) LLM_Ready  
+82) LLM_Ready  
+83) LLM_Ready  
+84) Temporal_Sensitive  
+85) LLM_Ready  
+86) LLM_Ready  
+87) LLM_Ready  
+88) Augment_Required  
+89) LLM_Ready  
+90) LLM_Ready  
+91) LLM_Ready  
+92) LLM_Ready  
+93) LLM_Ready  
+94) LLM_Ready  
+95) LLM_Ready  
+96) LLM_Ready  
+97) LLM_Ready  
+98) LLM_Ready  
+99) LLM_Ready  
+100) LLM_Ready  
+101) LLM_Ready  
+102) LLM_Ready  
+103) LLM_Ready  
+104) Augment_Required  
+105) Augment_Required  
+106) Augment_Required  
+107) LLM_Ready  
+108) LLM_Ready  
+109) LLM_Ready  
+110) LLM_Ready  
+111) LLM_Ready  
+112) LLM_Ready  
+113) LLM_Ready  
+114) LLM_Ready  
+115) LLM_Ready  
+116) LLM_Ready  
+117) LLM_Ready  
+118) LLM_Ready  
+119) LLM_Ready  
+120) LLM_Ready  
+121) LLM_Ready  
+122) LLM_Ready  
+123) LLM_Ready  
+124) LLM_Ready  
+125) LLM_Ready  
+126) LLM_Ready  
+127) LLM_Ready  
+128) LLM_Ready  
+129) LLM_Ready  
+130) LLM_Ready  
+131) LLM_Ready  
+132) LLM_Ready  
+133) LLM_Ready  
+134) LLM_Ready  
+135) LLM_Ready  
+136) LLM_Ready  
+137) LLM_Ready  
+138) LLM_Ready  
+139) LLM_Ready  
+140) LLM_Ready  
+141) LLM_Ready  
+142) LLM_Ready  
+143) LLM_Ready  
+144) LLM
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Augment_Required
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
+
+Temporal_Sensitive
