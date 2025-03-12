@@ -23,6 +23,32 @@ The application consists of two main components:
 - **OpenAI API key** (if using OpenAI for embeddings or chat - get one at https://platform.openai.com/api-keys)
 - Ollama installed locally (if using Ollama)
 
+### Installing Node.js
+
+1. Visit the official Node.js download page: https://nodejs.org/en/download
+2. Download the appropriate installer for your operating system.
+3. Follow the installation instructions for your platform
+4. Verify installation by opening Terminal/Command Prompt and running:
+   ```bash
+   node --version
+   npm --version
+   ```
+
+### Installing Ollama
+
+If you plan to use local models instead of OpenAI, you'll need to install Ollama:
+
+1. Visit the official Ollama website: https://ollama.com/
+2. Download the appropriate version for your operating system:
+   - macOS: Download the macOS installer
+   - Windows: Download the Windows installer
+   - Linux: Follow the instructions on the website
+3. After installation, you'll need to download at least one model. Open your terminal or command prompt and run:
+   ```bash
+   ollama pull llama3.1:8b
+   ```
+   This will download the Llama 3.1 8B model, which is recommended for this application.
+
 ### OpenAI Setup (Recommended)
 
 For optimal performance, we recommend using OpenAI's models:
