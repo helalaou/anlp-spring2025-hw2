@@ -6,7 +6,7 @@ echo "=== Installing Dependencies ==="
 if [ ! -d "server/venv" ]; then
     echo "Creating virtual environment..."
     cd server
-    python -m venv venv
+    python3.12 -m venv venv
     cd ..
 fi
 
