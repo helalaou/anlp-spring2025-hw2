@@ -20,18 +20,7 @@ if [ $? -ne 0 ]; then
 fi
 
 echo ""
-echo "=== STEP 2: Starting the RAG server ==="
-# Start the server inside the virtual environment
-cd server
-source venv/bin/activate
-nohup uvicorn rag_server:app --host 127.0.0.1 --port 8000 --reload > server.log 2>&1 &
-deactivate
-cd ..
-
-echo "RAG server started successfully."
-
-echo ""
-echo "=== STEP 3: Running the application ==="
+echo "=== STEP 2: Running the application ==="
 # Run the application
 ./run.sh
 

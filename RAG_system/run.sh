@@ -16,6 +16,8 @@ kill_ports() {
     done
 }
 
+echo "=== Starting Services ==="
+
 # Kill any processes running on the ports we need
 kill_ports 3000 3001 8000
 
@@ -29,7 +31,7 @@ source server/venv/bin/activate
 # Start the FastAPI server for FAISS
 echo "Starting FastAPI server for FAISS..."
 cd server
-uvicorn rag_server:app --host 0.0.0.0 --port 8000 --reload &
+nohup uvicorn rag_server:app --host 0.0.0.0 --port 8000 --reload > ../server.log 2>&1 &
 cd ..
 
 # Give the FastAPI server time to start
@@ -39,7 +41,7 @@ sleep 8
 # Start the Node.js server
 echo "Starting Node.js server..."
 cd server
-npm start &
+nohup npm start > ../node.log 2>&1 &
 cd ..
 
 echo "Waiting for Node.js server to start..."
@@ -48,7 +50,7 @@ sleep 5
 # Start the React app
 echo "Starting React app..."
 cd client
-npm start &
+nohup npm start > ../client.log 2>&1 &
 cd ..
 
 echo "All components are running!"
