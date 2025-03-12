@@ -2,7 +2,7 @@
 
 echo "=== Installing Dependencies ==="
 
-# Create and activate virtual environment if not already created
+# 1. Create and activate virtual environment if not already created
 if [ ! -d "server/venv" ]; then
     echo "Creating virtual environment..."
     cd server
@@ -10,33 +10,32 @@ if [ ! -d "server/venv" ]; then
     cd ..
 fi
 
-# Activate virtual environment
 echo "Activating virtual environment..."
 source server/venv/bin/activate
 
-# Upgrade pip itself first
+# 2. Upgrade pip
 echo "Upgrading pip..."
 pip install --upgrade pip
 
-# Install Python dependencies from requirements.txt
+# 3. Install Python dependencies from requirements.txt
 echo "Installing Python dependencies..."
 cd server
 pip install --upgrade -r requirements.txt
 
-# Ensure uvicorn is installed and updated
+# 4. Ensure uvicorn is installed and up-to-date
 echo "Upgrading uvicorn..."
 pip install --upgrade uvicorn
 cd ..
 
-# Install dependencies for the client and server
-echo "Installing dependencies for the client and server..."
+# 5. Install dependencies for the client and server (Node.js side)
+echo "Installing Node.js dependencies (client + server)..."
 cd client
 npm install
-cd ../server 
+cd ../server
 npm install
 cd ..
 
-# Deactivate virtual environment
+# 6. Deactivate virtual environment
 echo "Deactivating virtual environment..."
 deactivate
 

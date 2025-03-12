@@ -9,63 +9,59 @@ kill_ports() {
         pid=$(lsof -t -i:$port)
         if [ -n "$pid" ]; then
             echo "Killing process $pid on port $port..."
-            kill -9 $pid
+            kill -9 "$pid"
         else
             echo "No process running on port $port."
         fi
     done
 }
 
-echo "=== Starting Services ==="
-
-# Kill any processes running on the ports we need
+# 1. Kill any processes running on these ports
 kill_ports 3000 3001 8000
 
-# Create data directory if it doesn't exist
+# 2. Create data directory if it doesn't exist
 mkdir -p server/data
 
-# Activate virtual environment
+# 3. Activate virtual environment
 echo "Activating virtual environment..."
 source server/venv/bin/activate
 
-# Start the FastAPI server for FAISS
-echo "Starting FastAPI server for FAISS..."
+# 4. Start the FastAPI (RAG) server in the background
+echo "Starting FastAPI server for RAG..."
 cd server
-nohup uvicorn rag_server:app --host 0.0.0.0 --port 8000 --reload > ../server.log 2>&1 &
+uvicorn rag_server:app --host 0.0.0.0 --port 8000 --reload &
 cd ..
 
-# Give the FastAPI server time to start
 echo "Waiting for FastAPI server to initialize..."
 sleep 8
 
-# Start the Node.js server
+# 5. Start the Node.js server in the background
 echo "Starting Node.js server..."
 cd server
-nohup npm start > ../node.log 2>&1 &
+npm start &
 cd ..
 
 echo "Waiting for Node.js server to start..."
 sleep 5
 
-# Start the React app
+# 6. Start the React app in the background
 echo "Starting React app..."
 cd client
-nohup npm start > ../client.log 2>&1 &
+npm start &
 cd ..
 
 echo "All components are running!"
 echo "Access the application at http://localhost:3000"
 
-# Wait for user's input to stop the servers
+# 7. Wait for user input to stop everything
 read -p "Press [ENTER] to stop the servers..."
 
-# Stop the servers
 echo "Stopping servers..."
 pkill -f "uvicorn rag_server:app"
 pkill -f "node server/server.js"
 pkill -f "react-scripts start"
 
-# Deactivate virtual environment
+# 8. Deactivate virtual environment
 echo "Deactivating virtual environment..."
 deactivate
 

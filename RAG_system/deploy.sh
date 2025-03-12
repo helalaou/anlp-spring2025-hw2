@@ -2,14 +2,14 @@
 
 echo "=== Pittsburgh & CMU Knowledge Base - Deployment Script ==="
 echo ""
-echo "This script will install all dependencies and start the application."
+echo "This script will install all dependencies and then start the application."
 echo ""
 
 # Make sure install.sh and run.sh are executable
 chmod +x install.sh
 chmod +x run.sh
 
-# Run the installation script
+# STEP 1: Install dependencies
 echo "=== STEP 1: Installing dependencies ==="
 ./install.sh
 
@@ -19,10 +19,10 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
+# STEP 2: Run the application
 echo ""
 echo "=== STEP 2: Running the application ==="
-# Run the application
 ./run.sh
 
-# The script will end when run.sh ends (when the user presses ENTER)
+# When run.sh ends (user presses ENTER), deployment is done
 echo "Deployment complete and application stopped."
