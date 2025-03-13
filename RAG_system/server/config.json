@@ -15,8 +15,8 @@
         "apiUrl": "https://api.openai.com/v1"
       },
       "sentenceTransformers": {
-        "model": "all-MiniLM-L6-v2",
-        "dimension": 3072,
+        "model": "sentence-t5-base",
+        "dimension": 768,
         "apiUrl": "local"
       }
     },
