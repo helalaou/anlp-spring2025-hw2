@@ -1,353 +1,341 @@
-Who said "My heart is in the work"?
-Andrew Carnegie
+Q: Who said "My heart is in the work"?  
+A: Andrew Carnegie  
 
-When was CMU founded?
-1900
+Q: When was CMU founded?  
+A: 1900  
 
-What was the first school to award a degree in drama?
-CMU
+Q: What was the first school to award a degree in drama?  
+A: CMU  
 
-When did the first school award a degree in drama?
-1914
+Q: When did the first school award a degree in drama?  
+A: 1914  
 
-Who invented Java programming language?
-James Gosling
+Q: Who invented Java programming language?  
+A: James Gosling  
 
-Who created the first smile :-) in an email?
-Scott Fahlman
+Q: Who created the first smile :-) in an email?  
+A: Scott Fahlman  
 
-When was the first smile :-) in an email created?
-1982
+Q: When was the first smile :-) in an email created?  
+A: 1982  
 
-Who invented Kevlar Fiber?
-Stephanie Kwolek
+Q: Who invented Kevlar Fiber?  
+A: Stephanie Kwolek  
 
-Who wrote The Last Lecture?
-Randy Pausch;Jeffrey Zaslow
+Q: Who wrote The Last Lecture?  
+A: Randy Pausch; Jeffrey Zaslow  
 
-Who was awarded CMU's first Ph.D.?
-Mao Yisheng
+Q: Who was awarded CMU's first Ph.D.?  
+A: Mao Yisheng  
 
-Who was the father of Chinese bridge construction?
-Mao Yisheng
+Q: Who was the father of Chinese bridge construction?  
+A: Mao Yisheng  
 
-When was CMU's first Ph.D. awarded?
-1919
+Q: When was CMU's first Ph.D. awarded?  
+A: 1919  
 
-Who invented Duolingo?
-Luis von Ahn
+Q: Who invented Duolingo?  
+A: Luis von Ahn  
 
-Which school founded the first university robotics department?
-CMU
+Q: Which school founded the first university robotics department?  
+A: CMU  
 
-When was the first university robotics department founded?
-1979
+Q: When was the first university robotics department founded?  
+A: 1979  
 
-Does CMU have location in Africa?
-Yes
+Q: Does CMU have a location in Africa?  
+A: Yes  
 
-Does CMU have location in Qatar?
-Yes
+Q: Does CMU have a location in Qatar?  
+A: Yes  
 
-Does CMU have location in China?
-No
+Q: Does CMU have a location in China?  
+A: No  
 
-Does CMU have location on Mars?
-No
+Q: Does CMU have a location on Mars?  
+A: No  
 
-Which alumnus from CMU was an iconic figure in the pop art movement?
-Andy Warhol
+Q: Which alumnus from CMU was an iconic figure in the pop art movement?  
+A: Andy Warhol  
 
-Who started the first Girl Scout badge for negotiation?
-Linda Babcock
+Q: Who started the first Girl Scout badge for negotiation?  
+A: Linda Babcock  
 
-Who is teaming up with the City of Pittsburgh to improve road safety and eliminate traffic fatalities using AI?
-Ding Zhao
+Q: Who is teaming up with the City of Pittsburgh to improve road safety and eliminate traffic fatalities using AI?  
+A: Ding Zhao  
 
-Who was named "the father of computer science"?
-Alan Mathison Turing
+Q: Who was named "the father of computer science"?  
+A: Alan Mathison Turing  
 
-How many Turing Award recipient has Carnegie Mellon has been home to?
-13
+Q: How many Turing Award recipients has Carnegie Mellon been home to?  
+A: 13  
 
-How many Nobel Laureate has Carnegie Mellon has been home to?
-21
+Q: How many Nobel Laureates has Carnegie Mellon been home to?  
+A: 21  
 
-When did Andrew Carnegie emigrate from Scotland and settle in Pittsburgh?
-1848
+Q: When did Andrew Carnegie emigrate from Scotland and settle in Pittsburgh?  
+A: 1848  
 
-Where did Andrew Carnegie emigrate from?
-Scotland
+Q: Where did Andrew Carnegie emigrate from?  
+A: Scotland  
 
-When was Carnegie Tech merged with the Mellon Institute?
-1967
+Q: When was Carnegie Tech merged with the Mellon Institute?  
+A: 1967  
 
-When did Andrew Carnegie donate $1 million for the creation of a technical institute for the city of Pittsburgh?
-1900
+Q: When did Andrew Carnegie donate $1 million for the creation of a technical institute for the city of Pittsburgh?  
+A: 1900  
 
-Which city has the most trees per square mile among U.S. city?
-Pittsburgh
+Q: Which city has the most trees per square mile among U.S. cities?  
+A: Pittsburgh  
 
-Which building in Pittsburgh is one of the world’s largest concentrations of certified "green" buildings?
-the Phipps Conservatory
+Q: Which building in Pittsburgh is one of the world’s largest concentrations of certified "green" buildings?  
+A: The Phipps Conservatory  
 
-What was the most painted object in the world in CMU?
-The Fence
+Q: What was the most painted object in the world in CMU?  
+A: The Fence  
 
-When was the tradition of buggies race started?
-1920
+Q: When was the tradition of buggies race started?  
+A: 1920  
 
-What's the usual max speed of buggies?
-35 mph
+Q: What's the usual max speed of buggies?  
+A: 35 mph  
 
-Which major's students sign the walls and ceiling before graduating?
-drama
+Q: Which major's students sign the walls and ceiling before graduating?  
+A: Drama  
 
-Does CMU provide preschool and kindergarten education?
-Yes
+Q: Does CMU provide preschool and kindergarten education?  
+A: Yes  
 
-How long is CMU's Summer Pre-College Program?
-6 week
+Q: How long is CMU's Summer Pre-College Program?  
+A: 6 weeks  
 
-Which institute in CMU encourage adults in the Pittsburgh area to learn?
-Osher Lifelong Learning Institute;OLLI
+Q: Which institute in CMU encourages adults in the Pittsburgh area to learn?  
+A: Osher Lifelong Learning Institute (OLLI)  
 
-Which CMU's alumnus was given Tony nomination in 1973?
-Stephen Schwartz
+Q: Which CMU alumnus was given a Tony nomination in 1973?  
+A: Stephen Schwartz  
 
-When was Stephen Schwartz given the first Tony nomination?
-1973
+Q: When was Stephen Schwartz given the first Tony nomination?  
+A: 1973  
 
-When was the Robert Mehrabian Collaborative Innovation Center (RMCIC) opened?
-2005
+Q: When was the Robert Mehrabian Collaborative Innovation Center (RMCIC) opened?  
+A: 2005  
 
-Which Alumnus of CMU develped CAPTCHAs?
-Luis von Ahn
+Q: Which alumnus of CMU developed CAPTCHAs?  
+A: Luis von Ahn  
 
-Who produced the first computer-generated master schedule in the history of U.S. Major League Baseball?
-Michael Trick
+Q: Who produced the first computer-generated master schedule in the history of U.S. Major League Baseball?  
+A: Michael Trick  
 
-When was the first computer-generated master schedule in the history of U.S. Major League Baseball produced?
-2005
+Q: When was the first computer-generated master schedule in the history of U.S. Major League Baseball produced?  
+A: 2005  
 
-Which school built the first green dormitory in the U.S. in 2003?
-Carnegie Mellon
+Q: Which school built the first green dormitory in the U.S. in 2003?  
+A: Carnegie Mellon  
 
-When was the first green dormitory in the U.S. built?
-2003
+Q: When was the first green dormitory in the U.S. built?  
+A: 2003  
 
-Who in CMU has a Leadership in Energy and Environmental Design (LEED) silver designation from the U.S. Green Building Council?
-Stever House
+Q: Which building in CMU has a Leadership in Energy and Environmental Design (LEED) silver designation from the U.S. Green Building Council?  
+A: Stever House  
 
-What's a revolutionary way to teach computer programming by creating 3D animations, stories and video games develped by Randy Pausch?
-Alice
+Q: What is a revolutionary way to teach computer programming by creating 3D animations, stories, and video games developed by Randy Pausch?  
+A: Alice  
 
-Who develped Alice?
-Randy Pausch
+Q: Who developed Alice?  
+A: Randy Pausch  
 
-Which university was the first with a completely wired campus?
-CMU
+Q: Which university was the first with a completely wired campus?  
+A: CMU  
 
-Which professor in CMU developed a computer algorithm that accelerates the matching of living donors?
-Tuomas Sandholm
+Q: Which professor in CMU developed a computer algorithm that accelerates the matching of living donors?  
+A: Tuomas Sandholm  
 
-Who in CMU developd tutoring systems that are helping 500,000 students in 2,600 U.S. schools improve their math skills?
-Ken Koedinger
+Q: Who in CMU developed tutoring systems that are helping 500,000 students in 2,600 U.S. schools improve their math skills?  
+A: Ken Koedinger  
 
-Who in CMU pioneered a process he dubbed Atom Transfer Radical Polymerization (ATRP)?
-Krzysztof Matyjaszewski
+Q: Who in CMU pioneered a process he dubbed Atom Transfer Radical Polymerization (ATRP)?  
+A: Krzysztof Matyjaszewski  
 
-Who in CMU wrote A History of the Federal Reserve?
-Allan Meltzer
+Q: Who in CMU wrote *A History of the Federal Reserve*?  
+A: Allan Meltzer  
 
-Who in CMU co-founded the influential Shadow Open Market Committee?
-Allan Meltzer
+Q: Who in CMU co-founded the influential Shadow Open Market Committee?  
+A: Allan Meltzer  
 
-Which institute in CMU gave the U.S. first Master of Technology degree?
-ETC
+Q: Which institute in CMU gave the U.S. its first Master of Technology degree?  
+A: ETC  
 
-Who in CMU created logos of Starbucks Coffee, Panera Bread, JanSport?
-Terry Heckler
+Q: Who in CMU created the logos of Starbucks Coffee, Panera Bread, and JanSport?  
+A: Terry Heckler  
 
-Which university create the "bugs", robots that can walk on water?
-CMU
+Q: Which university created the "bugs," robots that can walk on water?  
+A: CMU  
 
-Which Carnegie Mellon alumnus sparked the idea to use a # symbol for grouping subjects on Twitter?
-Chris Messina
+Q: Which Carnegie Mellon alumnus sparked the idea to use a # symbol for grouping subjects on Twitter?  
+A: Chris Messina  
 
-Which professor founded YinzCam Inc.?
-Priya Narasimhan
+Q: Which professor founded YinzCam Inc.?  
+A: Priya Narasimhan  
 
-Where to see Pittsburgh the Steelers?
-Acrisure Stadium
+Q: Where to see the Pittsburgh Steelers?  
+A: Acrisure Stadium  
 
-Where to see Pittsburgh the Pirates?
-PNC Park
+Q: Where to see the Pittsburgh Pirates?  
+A: PNC Park  
 
-Who awarded Pittsburgh "Best Sports City"?
-Sporting News magazine
+Q: Who awarded Pittsburgh "Best Sports City"?  
+A: Sporting News magazine  
 
-What was the first team in NFL history to win six Super Bowl titles?
-Steelers
+Q: What was the first team in NFL history to win six Super Bowl titles?  
+A: Steelers  
 
-What is Acrisure Stadium known for?
-Terrible Towels waving; skyline views;"Renegade" being played in the forth quarter
+Q: What is Acrisure Stadium known for?  
+A: Terrible Towels waving, skyline views, "Renegade" being played in the fourth quarter  
 
-What is the capacity of Acrisure Stadium?
-68400
+Q: What is the capacity of Acrisure Stadium?  
+A: 68,400  
 
-When was Acrisure Stadium opened?
-2001
+Q: When was Acrisure Stadium opened?  
+A: 2001  
 
-What is PNC Park known for?
-Skyline views;fireworks nights;Pittsburgh Pierogi Race
+Q: What is PNC Park known for?  
+A: Skyline views, fireworks nights, Pittsburgh Pierogi Race  
 
-What is the capacity of PNC Park?
-38362
+Q: What is the capacity of PNC Park?  
+A: 38,362  
 
-When was PNC Park opened?
-2001
+Q: When was PNC Park opened?  
+A: 2001  
 
-Where to see Pittsburgh penguins?
-PPG Paints Arena
+Q: Where to see the Pittsburgh Penguins?  
+A: PPG Paints Arena  
 
-What is the capacity of PPG Paints Arena?
-18387
+Q: What is the capacity of PPG Paints Arena?  
+A: 18,387  
 
-When was PPG Paints Arena opened?
-2010
+Q: When was PPG Paints Arena opened?  
+A: 2010  
 
-What other event does PPG Paints Arena host?
-NCAA ice hockey;basketball tournaments
+Q: What other events does PPG Paints Arena host?  
+A: NCAA ice hockey, basketball tournaments  
 
-What is PPG Paints Arena known for?
-antics of Iceburgh;RC Cola;converts,WWE live events;Monster Jam
+Q: What is PPG Paints Arena known for?  
+A: Antics of Iceburgh, RC Cola, concerts, WWE live events, Monster Jam  
 
-What is the mascot of Penguins?
-antics of Iceburgh
+Q: What is the mascot of the Penguins?  
+A: Iceburgh  
 
-What is the longest home sellout streak in NHL history?
-14 years;633 games
+Q: Where to see the Pittsburgh Riverhounds?  
+A: Highmark Stadium  
 
-Where to see Pittsburgh riverhounds?
-Highmark Stadium
+Q: What is the capacity of Highmark Stadium?  
+A: 5,000  
 
-What is the capacity of Highmark Stadium?
-5000
+Q: When was Highmark Stadium opened?  
+A: 2012  
 
-When was the Highmark Stadium opened?
-2012
+Q: What events does Highmark Stadium hold?  
+A: Blues & Heritage Festival, WPIAL soccer championships
 
-What event does Highmark Stadium hold?
-Blues & Heritage Festival;WPIAL soccer championships
+Q: When was the terrible towel created?  
+A: 1975  
 
-When was the terrible towel created?
-1975
+Q: Who created the terrible towel?  
+A: Myron Cope  
 
-Who created the terrible towel?
-Myron Cope
+Q: When was the Pittsburgh Penguins founded?  
+A: 1967  
 
-When was the penguins founded?
-1967
+Q: Who purchased the Penguins in 1999?  
+A: Mario Lemieux; Ronald Burkle  
 
-Who purchased the Penguins in 1999?
-Mario Lemieux;Ronald Burkle
+Q: Which team was the first back-to-back champion in the salary cap era?  
+A: Pittsburgh Penguins  
 
-Which team was the first back-to-back champions in the salary cap era?
-Pittsburgh Penguins
+Q: Which division does the Penguins belong to?  
+A: Metropolitan  
 
-Which division does the Penguins belong to?
-Metropolitan
+Q: Which minor league teams are the Penguins affiliated with?  
+A: Wilkes-Barre/Scranton Penguins; Wheeling Nailers  
 
-Which Minor league does the Penguins affiliate?
-Wilkes-Barre/Scranton Penguins;Wheeling Nailers
+Q: Who was the Penguins' first general manager?  
+A: Jack Riley  
 
-Who was the Penguins' first general manager?
-Jack Riley
+Q: When was the Pittsburgh Steelers founded?  
+A: 1933  
 
-When was the Pittsburgh Steelers founded?
-1933
+Q: How many AFC championships have the Steelers won?  
+A: 8  
 
-How many AFC championships have the Steelers won?
-8
+Q: Where is the Steelers headquarters?  
+A: UPMC Rooney Sports Complex  
 
-Where is the Steelers headquartered?
-UPMC Rooney Sports Complex
+Q: How many Super Bowl wins do the Steelers have?  
+A: 6  
 
-How many super bowl wins does the Steelers have?
-6
+Q: When was the Pittsburgh Pirates established?  
+A: 1882  
 
-When was the Pirates established?
-1882
+Q: Who is the principal owner of the Pirates?  
+A: Bob Nutting  
 
-Who is the Principal owner of the Pirates?
-Bob Nutting
+Q: What is the mascot of the Pirates?  
+A: Pirate Parrot  
 
-What is the mascot of the Pirates?
-Pirate Parrot
+Q: Which team is known as "The Lumber Company"?  
+A: Pittsburgh Pirates  
 
-Which team does the nickname the Lumber Company belong to?
-Pittsburgh Pirates
+Q: Which team won the 1960 World Series?  
+A: Pittsburgh Pirates  
 
-Which team won the 1960 World Series?
-Pittsburgh Pirates
+Q: When did the Pirates join the National League?  
+A: 1887  
 
-When did the Pirates join the National League?
-1887
+Q: How many World Series championships have the Pirates won?  
+A: 5  
 
-How many World Series championships has the Pirates won?
-5
+Q: What is the price for attending "Al Stewart and Livingston Taylor"?  
+A: Prices from $129.  
 
-Q: What is the price for attending "Al Stewart and Livingston Taylor"?
-A: Prices from $129.
+Q: What type of event is "Al Stewart and Livingston Taylor"?  
+A: A musical concert.  
 
+Q: What time is the Thunder From Down Under event on April 18, 2025?  
+A: 7:00 PM  
 
-Q: What type of event is "Al Stewart and Livingston Taylor"?
-A: A musical concert.
+Q: Where is the Thunder From Down Under event taking place?  
+A: Event Center at Rivers Casino Pittsburgh, 15212, Pittsburgh, Pennsylvania, US  
 
-Q: What time is the Thunder From Down Under event on April 18, 2025?
-A: 7:00 PM
+Q: What is the starting price for tickets to the Thunder From Down Under event?  
+A: $42  
 
+Q: What time is the Diana Krall event on July 2, 2025?  
+A: 7:30 PM  
 
-Q: Where is the Thunder From Down Under event taking place?
-A: Event Center at Rivers Casino Pittsburgh, 15212, Pittsburgh, Pennsylvania, US
+Q: Where is the Diana Krall event on July 2, 2025?  
+A: Heinz Hall, 15222, Pittsburgh, PA, US  
 
+Q: What is the starting price for tickets to the Diana Krall event on July 2, 2025?  
+A: Prices from $87  
 
-Q: What is the starting price for tickets to the Thunder From Down Under event?
-A: $42
+Q: What is the description of the event on July 2, 2025, at 7:30 PM?  
+A: Diana Krall performance  
 
-Q: What time is the Diana Krall event on July 2, 2025?
-A: 7:30 PM
+Q: What time is the New Mexico United at Pittsburgh Riverhounds game on July 4, 2025?  
+A: 7:59 PM  
 
+Q: When is Howie Day performing in Pittsburgh?  
+A: May 1, 2025, at 7:30 PM.  
 
-Q: Where is the Diana Krall event on July 2, 2025?
-A: Heinz Hall, 15222, Pittsburgh, PA, US
+Q: Where is Howie Day's performance taking place?  
+A: City Winery Pittsburgh, 15222, Pittsburgh, Pennsylvania, US.  
 
+Q: What is the ticket price for Howie Day's performance?  
+A: Prices from $56.  
 
-Q: What is the starting price for tickets to the Diana Krall event on July 2, 2025?
-A: Prices from $87
+Q: What type of event is Howie Day's performance?  
+A: It is a musical concert.  
 
-
-Q: What is the description of the event on July 2, 2025, at 7:30 PM?
-A: Diana Krall performance
-
-Q: What time is the New Mexico United at Pittsburgh Riverhounds game on July 4, 2025?
-A: 7:59 PM
-
-Q: When is Howie Day performing in Pittsburgh?
-A: May 1, 2025, at 7:30 PM.
-
-
-Q: Where is Howie Day's performance taking place?
-A: City Winery Pittsburgh, 15222, Pittsburgh, Pennsylvania, US.
-
-
-Q: What is the ticket price for Howie Day's performance?
-A: Prices from $56.
-
-
-Q: What type of event is Howie Day's performance?
-A: It is a musical concert.
-
-Q: When is the San Diego Padres at Pittsburgh Pirates game on May 2, 2025?
-A: May 2, 2025, at 1:00 PM and 6:40 PM.
+Q: When is the San Diego Padres at Pittsburgh Pirates game on May 2, 2025?  
+A: May 2, 2025, at 1:00 PM and 6:40 PM.  
