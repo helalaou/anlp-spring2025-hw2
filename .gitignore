@@ -55,3 +55,7 @@ RAG_system/server/data/*_faiss_index.idx
 RAG_system/*.csv
 RAG_system/test_metrics.ipynb
 model_vis.png
+
+RAG_system/IAA_tianyi.txt
+RAG_system/misc.ipynb
+RAG_system/server/data/data_old.txt

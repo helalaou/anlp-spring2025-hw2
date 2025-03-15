@@ -33,7 +33,7 @@
     "data": {
       "filePath": "data/data.txt",
       "faissIndexPath": "data/faiss_index.idx",
-      "numResults": 3,
+      "numResults": 10,
       "separator": "\n\n"  
     }
     
