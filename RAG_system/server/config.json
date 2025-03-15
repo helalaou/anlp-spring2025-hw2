@@ -8,7 +8,7 @@
   },
   "rag": {
     "embedding": {
-      "provider": "sentenceTransformers",
+      "provider": "Alibaba-NLP",
       "openai": {
         "model": "text-embedding-3-large",
         "dimension": 1536,
@@ -17,6 +17,11 @@
       "sentenceTransformers": {
         "model": "sentence-t5-base",
         "dimension": 768,
+        "apiUrl": "local"
+      },
+      "Alibaba-NLP":{
+        "model":"gte-Qwen1.5-7B-instruct",
+        "dimension": 4096,
         "apiUrl": "local"
       }
     },
