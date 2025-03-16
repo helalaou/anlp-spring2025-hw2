@@ -10,4 +10,4 @@ Collect raw data on Music and Culture. Annotate QA pairs based on raw data. Choo
 
 ## Guanting Wu
 
-Collect raw data on events in Pittsburgh and CMU and Sports. Annotate QA pairs based on raw data. Merge data into the knowledge base. Create test set with Tianyi and do IAA. Data formatting and report writing.
+Collect raw data on events in Pittsburgh and CMU and Sports. Annotate QA pairs based on raw data. Merge data into the knowledge base. Create test set with Tianyi and label the categories of questions. Do IAA with Tianyi. Data formatting and report writing.
