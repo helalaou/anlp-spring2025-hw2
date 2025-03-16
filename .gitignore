@@ -1,1 +1,5 @@
 .DS_Store
+.Rhistory
+formatting.ipynb
+data.txt
+test_combined.txt
