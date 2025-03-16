@@ -59,3 +59,5 @@ model_vis.png
 RAG_system/IAA_tianyi.txt
 RAG_system/misc.ipynb
 RAG_system/server/data/data_old.txt
+RAG_system/system_output_2*
+RAG_system/server/data/data.txt
