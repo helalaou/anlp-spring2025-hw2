@@ -39,8 +39,3 @@ The RAG system consists of three main components:
 - Text cleaning and processing
 - Q&A generation using OpenAI's GPT-4o model
 - Sequential processing of sources with immediate Q&A generation
-
-## Submission Structure
-
-```
-```
