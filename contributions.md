@@ -3,6 +3,7 @@
 ## Hamza El Alaoui
 
 ## Tianyi Cheng
+Collect raw data on Music and Culture. Annotate QA pairs based on raw data. Choose experiment variations and evaluation metrics. Run experiments and evaluations, visualize the results and analyze them in report. Create test set with Guanting and do IAA, collected results to run evaluation and report them in the report. Generate system_outputs based on test set given by instructors. 
 
 ## Guanting Wu
 
